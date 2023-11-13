@@ -1,4 +1,4 @@
-return table.freeze{
+{
 	{
 		['Name'] = "Sledge Hammer",
 		['Function'] = [[require(8038037940).CLoad(Username)]]
