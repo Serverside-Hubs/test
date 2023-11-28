@@ -1,2644 +1,2625 @@
-{
-	{
-		['Name'] = "Sledge Hammer",
-		['Function'] = [[require(8038037940).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Wind Katana",
-		['Function'] = [[require(14175063457)(Username)]]
-	},
-	{
-		['Name'] = "Gunjourer",
-		['Function'] = [[require(14175074837)(Username)]]
-	},
-	{
-		['Name'] = "Dominus Empyreus",
-		['Function'] = [[require(14175081924)(Username)]]
-	},
-	{
-		['Name'] = "Bow Master",
-		['Function'] = [[require(14175067340)(Username)]]
-	},
-	{
-		['Name'] = "Abyss Eye",
-		['Function'] = [[require(14175105993)(Username)]]
-	},
-	{
-		['Name'] = "Sing",
-		['Function'] = [[require(14187594656)(Username)]]
-	},
-	{
-		['Name'] = "Notive",
-		['Function'] = [[require(14175901126)(Username)]]
-	},
-	{
-		['Name'] = "Fred Bear",
-		['Function'] = [[require(13761549843).pedobear(Username)]]
-	},
-	{
-		['Name'] = "Lunarist Gauntlet",
-		['Function'] = [[require(14175883434)(Username)]]
-	},
-	{
-		['Name'] = "Hooded Arch Angel",
-		['Function'] = [[require(14175891187)(Username)]]
-	},
-	{
-		['Name'] = "Skull Kid",
-		['Function'] = [[require(14175894408)(Username)]]
-	},
-	{
-		['Name'] = "Marble Stun Hammer",
-		['Function'] = [[require(14174944324)(Username)]]
-	},
-	{
-		['Name'] = "Preach",
-		['Function'] = [[require(14174908319)(Username)]]
-	},
-	{
-		['Name'] = "Creep",
-		['Function'] = [[require(14174895980)(Username)]]
-	},
-	{
-		['Name'] = "Internal War",
-		['Function'] = [[require(6152259244).load(Username)]]
-	},
-	{
-		['Name'] = "Pizza Guy",
-		['Function'] = [[require(14021508601).load(Username)]]
-	},
-	{
-		['Name'] = "Original Star Glitcher",
-		['Function'] = [[require(5338622654).a(Username)]]
-	},
-	{
-		['Name'] = "Wiron",
-		['Function'] = [[require(7972125129).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Wasp Fighter Jet",
-		['Function'] = [[require(5860060462).load(Username)]]
-	},
-	{
-		['Name'] = "Tiny Infernus",
-		['Function'] = [[require(8828734242)(Username)]]
-	},
-	{
-		['Name'] = "Rolling Ball Omen",
-		['Function'] = [[require(8824302289).omen(Username)]]
-	},
-	{
-		['Name'] = "Road Rogue",
-		['Function'] = [[require(7473216460).load(Username)]]
-	},
-	{
-		['Name'] = "Mercenary",
-		['Function'] = [[require(5177488826).Soldier(Username)]]
-	},
-	{
-		['Name'] = "Halo Master Chief",
-		['Function'] = [[require(5812973403).Halo(Username)]]
-	},
-	{
-		['Name'] = "Gale Fighter",
-		['Function'] = [[require(4880192192).load(Username)]]
-	},
-	{
-		['Name'] = "Full Armory Soldier",
-		['Function'] = [[require(4677541512).load(Username)]]
-	},
-	{
-		['Name'] = "Fruit Launcher",
-		['Function'] = [[require(6226957648).load(Username)]]
-	},
-	{
-		['Name'] = "Flying Spaceship",
-		['Function'] = [[require(4922372692).load(Username)]]
-	},
-	{
-		['Name'] = "Firework Organizer",
-		['Function'] = [[require(8824302289).omen(Username)]]
-	},
-	{
-		['Name'] = "Elite Combine",
-		['Function'] = [[require(7548845598).load(Username)]]
-	},
-	{
-		['Name'] = "Eden Security Drone",
-		['Function'] = [[require(4021519500).load(Username)]]
-	},
-	{
-		['Name'] = "Atlas Axe",
-		['Function'] = [[require(6438361301).load(Username)]]
-	},
-	{
-		['Name'] = "Memento Mori",
-		['Function'] = [[require(7473246984).load(Username)]]
-	},
-	{
-		['Name'] = "Sadist / Sadique Redux",
-		['Function'] = [[require(13886731002)(Username)]]
-	},
-	{
-		['Name'] = "Broken Angel",
-		['Function'] = [[require(13887185366).load(Username)]]
-	},
-	{
-		['Name'] = "Goner",
-		['Function'] = [[require(4536456687):Fire(Username, "a")]]
-	},
-	{
-		['Name'] = "Telekinesis",
-		['Function'] = [[require(5201088212).load(Username, "test")]]
-	},
-	{
-		['Name'] = "Ender",
-		['Function'] = [[require(5835981584):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Ender V2",
-		['Function'] = [[require(11839987547).load(Username)]]
-	},
-	{
-		['Name'] = "Eyo-Zen V2",
-		['Function'] = [[require(5892684980).load(Username)]]
-	},
-	{
-		['Name'] = "What Another One V1.5",
-		['Function'] = [[require(11838287024).load(Username)]]
-	},
-	{
-		['Name'] = "Omni God",
-		['Function'] = [[require(14186351007)(Username)]]
-	},
-	{
-		['Name'] = "Strat v2 Glitcher",
-		['Function'] = [[require(11792033063).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Finium Glitcher",
-		['Function'] = [[require(11797213354).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Sprectraversum Glitcher",
-		['Function'] = [[require(11791988807).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Exsorius Glitcher",
-		['Function'] = [[require(11792006247).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Arbitrarium Glitcher",
-		['Function'] = [[require(11791792396).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Outcast",
-		['Function'] = [[require(5229592351).eliza(Username)]]
-	},
-	{
-		['Name'] = "Comedic Chaos",
-		['Function'] = [[require(8837899654).load(Username)]]
-	},
-	{
-		['Name'] = "Demoknight",
-		['Function'] = [[require(9075443934).load(Username)]]
-	},
-	{
-		['Name'] = "True Madness V2",
-		['Function'] = [[require(8038084808).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Notive",
-		['Function'] = [[require(14175901126)(Username)]]
-	},
-	{
-		['Name'] = "Distraught Fire Elemental",
-		['Function'] = [[require(6492319825).load(Username)]]
-	},
-	{
-		['Name'] = "Red Mist",
-		['Function'] = [[require(7473206349).load(Username)]]
-	},
-	{
-		['Name'] = "Chess King",
-		['Function'] = [[require(6223977609)["ChessKing"](Username)]]
-	},
-	{
-		['Name'] = "Animation Man",
-		['Function'] = [[require(8076428410).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Florus",
-		['Function'] = [[require(7972247318).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Pet Leash",
-		['Function'] = [[require(8375420639).get("PetLeash", Username)]]
-	},
-	{
-		['Name'] = "Terraprisma",
-		['Function'] = [[require(8038024771).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Night's Edge",
-		['Function'] = [[require(8665701840).load(Username)]]
-	},
-	{
-		['Name'] = "Minecraft Potions",
-		['Function'] = [[require(8753925776)(Username,true)]]
-	},
-	{
-		['Name'] = "Zal_go The Corruptor",
-		['Function'] = [[require(8165331700).load(Username)]]
-	},
-	{
-		['Name'] = "Thanos",
-		['Function'] = [[require(2960340602):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Draw",
-		['Function'] = [[require(2966602068):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Elio Basio",
-		['Function'] = [[require(2972449136):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Meerin",
-		['Function'] = [[require(4383182842).load(Username)]]
-	},
-	{
-		['Name'] = "Neptunian V5 Remake",
-		['Function'] = [[require(14217235618)(Username)]]
-	},
-	{
-		['Name'] = "Guest Glitcher",
-		['Function'] = [[require(4795296269).load(Username)]]
-	},
-	{
-		['Name'] = "Buff Noob",
-		['Function'] = [[require(2946085544):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Dominus Astra",
-		['Function'] = [[require(2946064785):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Chara V1",
-		['Function'] = [[require(2945816118):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Jane Doe",
-		['Function'] = [[require(4599267783).ooga(Username)]]
-	},
-	{
-		['Name'] = "Diamond Sword",
-		['Function'] = [[require(5300507859).Dark(Username)]]
-	},
-	{
-		['Name'] = "Evelyn",
-		['Function'] = [[require(4702863762).load(Username)]]
-	},
-	{
-		['Name'] = "Shopping Cart",
-		['Function'] = [[require(2959866384):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Nullioner",
-		['Function'] = [[require(7972181516).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Soul Reaper",
-		['Function'] = [[require(7972086233).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Craze Runner",
-		['Function'] = [[require(7972228214).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Crawl",
-		['Function'] = [[require(7972019185).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Parkour",
-		['Function'] = [[require(8076509064).CLoad(Username)]]
-	},
-	{
-		['Name'] = "True Insanity",
-		['Function'] = [[require(7972153307).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Vancuit",
-		['Function'] = [[require(8037922072).CLoad(Username)]]
-	},
-	{
-		['Name'] = "Parallelence Glitcher",
-		['Function'] = [[require(7686265209 ).load(Username)]]
-	},
-	{
-		['Name'] = "Awoken Glitcher",
-		['Function'] = [[require(6223977609).giveSortermRW(Username)]]
-	},
-	{
-		['Name'] = "Excellence Glitcher",
-		['Function'] = [[require(7686271856).load(Username)]]
-	},
-	{
-		['Name'] = "Devoyance Glitcher",
-		['Function'] = [[require(7619760576)(Username)]]
-	},
-	{
-		['Name'] = "Severance Glitcher",
-		['Function'] = [[require(7683335255).load(Username)]]
-	},
-	{
-		['Name'] = "Dvd Man",
-		['Function'] = [[require(6843126490).dvd(Username)]]
-	},
-	{
-		['Name'] = "Deadly Lazer Sun V3",
-		['Function'] = [[require(4528360948):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Deadly Lazer Sun V2",
-		['Function'] = [[end
-	},
-	{
-		['Name'] = "Deadly Lazer Sun V1",
-		['Function'] = [[require(4658348819):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Biggest Memer",
-		['Function'] = [[require(6295686651)(Username)]]
-	},
-	{
-		['Name'] = "Da Feets",
-		['Function'] = [[require(6223977609)['Da  feets'](Username)]]
-	},
-	{
-		['Name'] = "Portable Screen",
-		['Function'] = [[require(5928380931).load(Username)]]
-	},
-	{
-		['Name'] = "Crazy Dance",
-		['Function'] = [[require(7515404366)(Username,"distract")]]
-	},
-	{
-		['Name'] = "Solem Vow",
-		['Function'] = [[require(7400426012).load(Username)]]
-	},
-	{
-		['Name'] = "The Boys",
-		['Function'] = [[require(7473297462).load(Username)]]
-	},
-	{
-		['Name'] = "Mimicry",
-		['Function'] = [[require(7400411100).load(Username)]]
-	},
-	{
-		['Name'] = "Meme Machine",
-		['Function'] = [[require(2959842532):Fire(Username,"test")]]
-	},
-	{
-		['Name'] = "Slaughter Bob",
-		['Function'] = [[require(7082061549).detroitbottom(Username)]]
-	},
-	{
-		['Name'] = "Liron",
-		['Function'] = [[require(7071265233).load(Username)]]
-	},
-	{
-		['Name'] = "Omega",
-		['Function'] = [[require(6856371401)(Username)]]
-	},
-	{
-		['Name'] = "Crazy Ex",
-		['Function'] = [[require(6953422184)(Username)]]
-	},
-	{
-		['Name'] = "Guillotine (Playername)",
-		['Function'] = [[require(5786385249)("mald", Username, "guillotine")]]
-	},
-	{
-		['Name'] = "Firing Squad (Playername)",
-		['Function'] = [[require(5786385249)("mald", Username, "squad")]]
-	},
-	{
-		['Name'] = "Arsenal Delinquent",
-		['Function'] = [[require(1525600089).goldentec(Username)]]
-	},
-	{
-		['Name'] = "Sin Ultimate",
-		['Function'] = [[require(6583572269).load(Username)]]
-	},
-	{
-		['Name'] = "Doge Army",
-		['Function'] = [[require(5115249013).fehack(Username)]]
-	},
-	{
-		['Name'] = "Mirror Man Edit",
-		['Function'] = [[require(6764771009).run(Username)]]
-	},
-	{
-		['Name'] = "Orb Visualiser [>play id]",
-		['Function'] = [[require(4840756025)(Username)]]
-	},
-	{
-		['Name'] = "Rare Tool Pack 2",
-		['Function'] = [[require(7125793570).no(Username, "no")]]
-	},
-	{
-		['Name'] = "Nebula Star Glitcher V1.2",
-		['Function'] = [[require(4697268800).load(Username)]]
-	},
-	{
-		['Name'] = "Nebula Star Glitcher V1",
-		['Function'] = [[require(4798414097).load(Username)]]
-	},
-	{
-		['Name'] = "NI-CISYNIA Glitcher",
-		['Function'] = [[require(7667220373).load(Username)]]
-	},
-	{
-		['Name'] = "Characterization Glitcher",
-		['Function'] = [[require(5513812536).Characterization(Username)]]
-	},
-	{
-		['Name'] = "Galaxy Glitcher Anime Edit",
-		['Function'] = [[require(6174059995):GalaxyGlitcher(Username)]]
-	},
-	{
-		['Name'] = "TYTMXHFL rela's Edit Glitcher 1",
-		['Function'] = [[require(6832350385).load(Username)]]
-	},
-	{
-		['Name'] = "TYTMXHFL rela's Edit Glitcher 2",
-		['Function'] = [[require(6911774967).load(Username)]]
-	},
-	{
-		['Name'] = "Psychocider",
-		['Function'] = [[require(7622273041):Fire(Username, "i baked you a pie")]]
-	},
-	{
-		['Name'] = "Chromospheric Glitcher",
-		['Function'] = [[require(7610956320).chromo(Username)]]
-	},
-	{
-		['Name'] = "Last Star Glitcher",
-		['Function'] = [[
-			local a = Instance.new("Folder")
-			a.Parent = workspace[Username]
-			a.Name = "Health"
-			task.wait()
-			require(7327437424).OMG(Username)
-		end]]
-	},
-	{
-		['Name'] = "Godspeed",
-		['Function'] = [[require(3957090799).load(Username)]]
-	},
-	{
-		['Name'] = "Malus",
-		['Function'] = [[require(6226860871).load(Username)]]
-	},
-	{
-		['Name'] = "The Alchemist",
-		['Function'] = [[require(6224178099).load(Username)]]
-	},
-	{
-		['Name'] = "Shouto Todoroki",
-		['Function'] = [[require(6646850627).load(Username)]]
-	},
-	{
-		['Name'] = "Fumo Cirno",
-		['Function'] = [[require(6838409424).load(Username)]]
-	},
-	{
-		['Name'] = "Kanna",
-		['Function'] = [[require(03485547628).load(Username)]]
-	},
-	{
-		['Name'] = "The World Crazy Edit",
-		['Function'] = [[require(0x15d0d1a90)("jojo", Username)]]
-	},
-	{
-		['Name'] = "Hallow The World",
-		['Function'] = [[require(6498729741)("HW", Username)]]
-	},
-	{
-		['Name'] = "Made In Heaven",
-		['Function'] = [[require(4902600443)("MIH", Username)]]
-	},
-	{
-		['Name'] = "King Crimson",
-		['Function'] = [[require(4902600443)("KC", Username)]]
-	},
-	{
-		['Name'] = "Shadow The World Requiem",
-		['Function'] = [[require(6497734492)("STWR", Username)]]
-	},
-	{
-		['Name'] = "The World Over Heaven",
-		['Function'] = [[require(4902600443)("TWOH", Username)]]
-	},
-	{
-		['Name'] = "Stand Arrow",
-		['Function'] = [[require(4902600443)("Arrow", Username)]]
-	},
-	{
-		['Name'] = "Killer Queen",
-		['Function'] = [[require(4902600443)("KQ", Username)]]
-	},
-	{
-		['Name'] = "Uderpzal",
-		['Function'] = [[require(5931089380).uderpzal(Username)]]
-	},
-	{
-		['Name'] = "Rayman",
-		['Function'] = [[require(6801506680).load(Username)]]
-	},
-	{
-		['Name'] = "Deathwish",
-		['Function'] = [[require(6798837348).Deathwish(Username)]]
-	},
-	{
-		['Name'] = "Derpz Hoverboard",
-		['Function'] = [[require(6788741042).load(Username)]]
-	},
-	{
-		['Name'] = "Coup D'etat",
-		['Function'] = [[require(6224174695).load(Username)]]
-	},
-	{
-		['Name'] = "Cytus Edit Glitcher",
-		['Function'] = [[require(6304280002).punitus(Username)]]
-	},
-	{
-		['Name'] = "Derpz Glitcher: The Final Chapter",
-		['Function'] = [[require(6304832125).RGT(Username)]]
-	},
-	{
-		['Name'] = "GX Glitcher",
-		['Function'] = [[require(6002457001).load(Username)]]
-	},
-	{
-		['Name'] = "Help Glitcher",
-		['Function'] = [[require(6291191232).load(Username)]]
-	},
-	{
-		['Name'] = "Hemispheric Glitcher",
-		['Function'] = [[require(5090401326)(Username)]]
-	},
-	{
-		['Name'] = "Liksn11 Glitcher",
-		['Function'] = [[require(5954900168).liksn11(Username)]]
-	},
-	{
-		['Name'] = "Omni Glitcher",
-		['Function'] = [[require(6086929981).load(Username)]]
-	},
-	{
-		['Name'] = "Star Redemption",
-		['Function'] = [[require(6226090258).load(Username)]]
-	},
-	{
-		['Name'] = "Yannies's SGR",
-		['Function'] = [[require(5620001187).csg(Username)]]
-	},
-	{
-		['Name'] = "Another",
-		['Function'] = [[require(5659724224).load(Username)]]
-	},
-	{
-		['Name'] = "BlueGuestreborn1's Script",
-		['Function'] = [[require(6365402810).load(Username)]]
-	},
-	{
-		['Name'] = "Hololive Fubuki",
-		['Function'] = [[require(5907637844).load(Username)]]
-	},
-	{
-		['Name'] = "Kill Machine",
-		['Function'] = [[require(6375409514).load(Username)]]
-	},
-	{
-		['Name'] = "Light",
-		['Function'] = [[require(6288466793).load(Username)]]
-	},
-	{
-		['Name'] = "Rune",
-		['Function'] = [[require(6300537800).load(Username)]]
-	},
-	{
-		['Name'] = "Koreman",
-		['Function'] = [[require(6364332345).me(Username)]]
-	},
-	{
-		['Name'] = "Abstract Glitcher V1.2",
-		['Function'] = [[require(5783387105).load(Username)]]
-	},
-	{
-		['Name'] = "Artuco's Star Glitcher V2",
-		['Function'] = [[require(5898340652).load(Username)]]
-	},
-	{
-		['Name'] = "Awakened Glitcher",
-		['Function'] = [[require(5689227186)(Username)]]
-	},
-	{
-		['Name'] = "Cyan Glitcher",
-		['Function'] = [[require(5783070713).load(Username)]]
-	},
-	{
-		['Name'] = "Cytus 2R Glitcher",
-		['Function'] = [[require(4949972461).load(Username)]]
-	},
-	{
-		['Name'] = "Dimensiona",
-		['Function'] = [[require(4957540270).load(Username)]]
-	},
-	{
-		['Name'] = "Firey Switcher",
-		['Function'] = [[require(5748722400).eliza(Username)]]
-	},
-	{
-		['Name'] = "SGR Edit",
-		['Function'] = [[require(4721742420):SpectrumOP(Username)]]
-	},
-	{
-		['Name'] = "Sans Glitcher",
-		['Function'] = [[require(5489432435).GayGlitcherLeaked("old trash", Username)]]
-	},
-	{
-		['Name'] = "Soda Switcher Glitcher",
-		['Function'] = [[require(5775182857).ssg(Username)]]
-	},
-	{
-		['Name'] = "Spectrum Glitcher CR (-stop)",
-		['Function'] = [[require(5782848272).yeet(Username)]]
-	},
-	{
-		['Name'] = "Zero Switcher",
-		['Function'] = [[require(5745831816):Alpha(Username)]]
-	},
-	{
-		['Name'] = "Robot Glitcher",
-		['Function'] = [[require(5349719082).eliza(Username)]]
-	},
-	{
-		['Name'] = "Drone Minigun",
-		['Function'] = [[require(5248023821).load(Username)]]
-	},
-	{
-		['Name'] = "War Phoenix",
-		['Function'] = [[require(6569530296).load(Username)]]
-	},
-	{
-		['Name'] = "Green Lantern",
-		['Function'] = [[require(6513716743).load(Username)]]
-	},
-	{
-		['Name'] = "APC Tank",
-		['Function'] = [[require(6569622359).load(Username)]]
-	},
-	{
-		['Name'] = "Kazotsky Kick",
-		['Function'] = [[require(6728874428).basskick(Username)]]
-	},
-	{
-		['Name'] = "Uber God V2",
-		['Function'] = [[require(6511253627).load(Username)]]
-	},
-	{
-		['Name'] = "Pro Knife",
-		['Function'] = [[require(6569617509).load(Username)]]
-	},
-	{
-		['Name'] = "Tangel",
-		['Function'] = [[require(6226452825).load(Username)]]
-	},
-	{
-		['Name'] = "Project Scripted V2.1",
-		['Function'] = [[require(6725297744):Scripted(Username)]]
-	},
-	{
-		['Name'] = "Split Head",
-		['Function'] = [[require(5760009753).load(Username)]]
-	},
-	{
-		['Name'] = "Emma U V2",
-		['Function'] = [[require(6226173369).load(Username)]]
-	},
-	{
-		['Name'] = "Killbot V3",
-		['Function'] = [[require(6688474792).load(Username)]]
-	},
-	{
-		['Name'] = "Noobygames Dark Staff",
-		['Function'] = [[require(4941814153).load(Username)]]
-	},
-	{
-		['Name'] = "Musketeer",
-		['Function'] = [[require(6583606008).load(Username)]]
-	},
-	{
-		['Name'] = "Amethyst Mask",
-		['Function'] = [[require(6583574020).load(Username)]]
-	},
-	{
-		['Name'] = "Magic 8ball",
-		['Function'] = [[require(6438191748).load(Username)]]
-	},
-	{
-		['Name'] = "Hellset",
-		['Function'] = [[require(6569726017)[Username] = "Dark" end
-	},
-	{
-		['Name'] = "Fight Mode",
-		['Function'] = [[require(6438401832).load(Username)]]
-	},
-	{
-		['Name'] = "Lightning Fighter",
-		['Function'] = [[require(5813888007).load(Username)]]
-	},
-	{
-		['Name'] = "Charlie Chaplin",
-		['Function'] = [[require(6606289064).load(Username)]]
-	},
-	{
-		['Name'] = "God's Abandoned Daughter V2",
-		['Function'] = [[require(5151004305).load(Username)]]
-	},
-	{
-		['Name'] = "R15 Giant Hulk",
-		['Function'] = [[require(6587614770).load(Username)]]
-	},
-	{
-		['Name'] = "Ruin Finale",
-		['Function'] = [[require(6473649573).load(Username)]]
-	},
-	{
-		['Name'] = "Smite",
-		['Function'] = [[require(4670221296).load(Username)]]
-	},
-	{
-		['Name'] = "Marenol",
-		['Function'] = [[require(6473758752).load(Username)]]
-	},
-	{
-		['Name'] = "Spectre",
-		['Function'] = [[require(6058222319).load(Username)]]
-	},
-	{
-		['Name'] = "Luster's Pirate",
-		['Function'] = [[require(6543481472).load(Username)]]
-	},
-	{
-		['Name'] = "Lunatic",
-		['Function'] = [[require(5813708464).load(Username)]]
-	},
-	{
-		['Name'] = "Grab Killer",
-		['Function'] = [[require(6460913193).load(Username)]]
-	},
-	{
-		['Name'] = "Dread Hunter",
-		['Function'] = [[require(6511194429).load(Username)]]
-	},
-	{
-		['Name'] = "Burn",
-		['Function'] = [[require(6478479994).load(Username)]]
-	},
-	{
-		['Name'] = "Cyber Dominus",
-		['Function'] = [[require(6511258944).load(Username)]]
-	},
-	{
-		['Name'] = "Glockcider",
-		['Function'] = [[require(6500979044).load(Username)]]
-	},
-	{
-		['Name'] = "Oros Staff",
-		['Function'] = [[require(6099971134).load(Username)]]
-	},
-	{
-		['Name'] = "Guts V2",
-		['Function'] = [[require(6438169891).load(Username)]]
-	},
-	{
-		['Name'] = "Dominus Coelum",
-		['Function'] = [[require(6489672292).load(Username)]]
-	},
-	{
-		['Name'] = "Vronicus",
-		['Function'] = [[require(6485092713).load(Username)]]
-	},
-	{
-		['Name'] = "Radioactive Reaper",
-		['Function'] = [[require(6478070465).load(Username)]]
-	},
-	{
-		['Name'] = "Brew Pot",
-		['Function'] = [[require(6438188455).load(Username)]]
-	},
-	{
-		['Name'] = "Dominus Praefectus",
-		['Function'] = [[require(6472920124).load(Username)]]
-	},
-	{
-		['Name'] = "Spazzing Out",
-		['Function'] = [[require(6455499392).load(Username)]]
-	},
-	{
-		['Name'] = "Junkbot",
-		['Function'] = [[require(6438196691)(Username,"JUNKBOT")]]
-	},
-	{
-		['Name'] = "Chips",
-		['Function'] = [[require(5097644333).load(Username)]]
-	},
-	{
-		['Name'] = "Light Circlet",
-		['Function'] = [[require(5813748809).load(Username)]]
-	},
-	{
-		['Name'] = "Rannoch",
-		['Function'] = [[require(6375564504).load(Username)]]
-	},
-	{
-		['Name'] = "The Holiest Wrench",
-		['Function'] = [[require(6419718698).load(Username)]]
-	},
-	{
-		['Name'] = "Dearsister Pistol",
-		['Function'] = [[require(6332990586).load(Username)]]
-	},
-	{
-		['Name'] = "Ice Walker",
-		['Function'] = [[require(6319945511).load(Username)]]
-	},
-	{
-		['Name'] = "Ancient Magician",
-		['Function'] = [[require(6352223238).load(Username)]]
-	},
-	{
-		['Name'] = "The Nightfall",
-		['Function'] = [[require(6319870493).load(Username)]]
-	},
-	{
-		['Name'] = "False God",
-		['Function'] = [[require(6058215921).load(Username)]]
-	},
-	{
-		['Name'] = "RachJumper",
-		['Function'] = [[require(6099334284).load(Username)]]
-	},
-	{
-		['Name'] = "Aeshma",
-		['Function'] = [[require(6342834455).load(Username)]]
-	},
-	{
-		['Name'] = "Operation Noob Event",
-		['Function'] = [[require(6269838898).load()]]
-	},
-	{
-		['Name'] = "Voodoo Child V2",
-		['Function'] = [[require(6191675567).load(Username)]]
-	},
-	{
-		['Name'] = "Voodoo Child",
-		['Function'] = [[require(6191659992).load(Username)]]
-	},
-	{
-		['Name'] = "Gem Master",
-		['Function'] = [[require(5935318869).load(Username)]]
-	},
-	{
-		['Name'] = "Sakura Blade",
-		['Function'] = [[require(6226360016).load(Username)]]
-	},
-	{
-		['Name'] = "Clarant Blade",
-		['Function'] = [[require(6099967332).load(Username)]]
-	},
-	{
-		['Name'] = "Broly",
-		['Function'] = [[require(6029173293).load(Username)]]
-	},
-	{
-		['Name'] = "Marx",
-		['Function'] = [[require(5813723371).load(Username)]]
-	},
-	{
-		['Name'] = "Magma Defender",
-		['Function'] = [[require(5813766312).load(Username)]]
-	},
-	{
-		['Name'] = "Emer",
-		['Function'] = [[require(5813759403).load(Username)]]
-	},
-	{
-		['Name'] = "Fake Noot Noot",
-		['Function'] = [[require(4661083363).eliza()]]
-	},
-	{
-		['Name'] = "Paragon Glitcher",
-		['Function'] = [[require(4722335098).load(Username)]]
-	},
-	{
-		['Name'] = "Friend Glitcher",
-		['Function'] = [[require(4709101293).load(Username)]]
-	},
-	{
-		['Name'] = "Universal Glitcher",
-		['Function'] = [[require(4754386252).load(Username)]]
-	},
-	{
-		['Name'] = "Helkern Mech",
-		['Function'] = [[require(5813823244).load(Username)]]
-	},
-	{
-		['Name'] = "Polaris Cube",
-		['Function'] = [[require(6583577614).load(Username)]]
-	},
-	{
-		['Name'] = "Senko",
-		['Function'] = [[require(6538030830).SenkoSan(Username)]]
-	},
-	{
-		['Name'] = "Onii Glitcher",
-		['Function'] = [[require(5527846512).NewOnii(Username)]]
-	},
-	{
-		['Name'] = "Soul Glitcher",
-		['Function'] = [[require(5581466263).Soul(Username)]]
-	},
-	{
-		['Name'] = "Can't Sleep",
-		['Function'] = [[require(6225799838).run(Username)]]
-	},
-	{
-		['Name'] = "Chaotic Glitcher",
-		['Function'] = [[require(6234005961).load(Username)]]
-	},
-	{
-		['Name'] = "Fallen Angelic Warrior",
-		['Function'] = [[require(4945971273).load(Username)]]
-	},
-	{
-		['Name'] = "Golden Glitcher",
-		['Function'] = [[require(5944671398).golden(Username)]]
-	},
-	{
-		['Name'] = "Maddox",
-		['Function'] = [[require(4875832017).load(Username)]]
-	},
-	{
-		['Name'] = "Mrs. Bye Bye",
-		['Function'] = [[require(4945682948).load(Username)]]
-	},
-	{
-		['Name'] = "Pandora",
-		['Function'] = [[require(3547672868).p11(Username)]]
-	},
-	{
-		['Name'] = "Pink Barbie Car",
-		['Function'] = [[require(4745872847).load(Username)]]
-	},
-	{
-		['Name'] = "ROAD ROLLER DA",
-		['Function'] = [[require(4581300009).xd(Username)]]
-	},
-	{
-		['Name'] = "Super Reality Glitcher",
-		['Function'] = [[require(4957436288).load(Username)]]
-	},
-	{
-		['Name'] = "Star Platinum",
-		['Function'] = [[require(5534238329)(Username, "StarPlatinum")]]
-	},
-	{
-		['Name'] = "The All Seeing Hand",
-		['Function'] = [[require(5375399205).Player(Username)]]
-	},
-	{
-		['Name'] = "Bomb Vest V2",
-		['Function'] = [[require(0x49731b7f).load(Username)]]
-	},
-	{
-		['Name'] = "Bomb Vest V1",
-		['Function'] = [[require(0x39d9879d).load(Username)]]
-	},
-	{
-		['Name'] = "The World",
-		['Function'] = [[require(4902600443)("TW", Username)]]
-	},
-	{
-		['Name'] = "Toxicity",
-		['Function'] = [[require(4936620258):Fire(Username)]]
-	},
-	{
-		['Name'] = "Unithereal Glitcher Edit",
-		['Function'] = [[require(5024713750)(Username)]]
-	},
-	{
-		['Name'] = "AOM Glitcher Edit",
-		['Function'] = [[require(4721760220):yes(Username)]]
-	},
-	{
-		['Name'] = "Till It's Over Glitcher",
-		['Function'] = [[require(5324939683).tillitsover(Username)]]
-	},
-	{
-		['Name'] = "Andrfixs Msg Edit",
-		['Function'] = [[require(6134077425)(Username)]]
-	},
-	{
-		['Name'] = "I N S A N I T Y",
-		['Function'] = [[require(6223977609)["Insanity"](Username)]]
-	},
-	{
-		['Name'] = "Hell Dominus",
-		['Function'] = [[require(5396767447).load(Username)]]
-	},
-	{
-		['Name'] = "Chillingo",
-		['Function'] = [[require(6126846548).load(Username)]]
-	},
-	{
-		['Name'] = "Decimation Glitcher",
-		['Function'] = [[require(6602728152)(Username)]]
-	},
-	{
-		['Name'] = "4 Spin Shuriken",
-		['Function'] = [[require(4941658507).load(Username)]]
-	},
-	{
-		['Name'] = "500 Pound Ball",
-		['Function'] = [[require(5018462111):Fire(Username)]]
-	},
-	{
-		['Name'] = "ASG",
-		['Function'] = [[require(5306145175).eliza(Username)]]
-	},
-	{
-		['Name'] = "ASHA",
-		['Function'] = [[require(5408257176).c3(Username)]]
-	},
-	{
-		['Name'] = "AXR Piercer",
-		['Function'] = [[require(5014529750):Fire(Username)]]
-	},
-	{
-		['Name'] = "Abysylum",
-		['Function'] = [[require(4698692905).load(Username)]]
-	},
-	{
-		['Name'] = "Abysylum V2",
-		['Function'] = [[require(5151019250).load(Username)]]
-	},
-	{
-		['Name'] = "AdNOnis",
-		['Function'] = [[require(5908631416)()]]
-	},
-	{
-		['Name'] = "Admin Disabler",
-		['Function'] = [[require(5293427850).op("very op yes")]]
-	},
-	{
-		['Name'] = "Aether Bracelet",
-		['Function'] = [[require(4660106429).load(Username)]]
-	},
-	{
-		['Name'] = "Agent Agony",
-		['Function'] = [[require(14174465891)(Username)]]
-	},
-	{
-		['Name'] = "Agent Wesker",
-		['Function'] = [[require(4932690106).load(Username)]]
-	},
-	{
-		['Name'] = "Ali",
-		['Function'] = [[require(14175904153)(Username)]]
-	},
-	{
-		['Name'] = "Angel",
-		['Function'] = [[require(4671838873).load(Username)]]
-	},
-	{
-		['Name'] = "Angel And Demon",
-		['Function'] = [[require(5166703170).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Angelic Rainbow Goner",
-		['Function'] = [[require(4939833529).G(Username)]]
-	},
-	{
-		['Name'] = "Another Sans",
-		['Function'] = [[require(4952709475).load(Username)]]
-	},
-	{
-		['Name'] = "Another Scythe",
-		['Function'] = [[require(4810850766).Fire(Username)]]
-	},
-	{
-		['Name'] = "Aquatic Mage",
-		['Function'] = [[require(4671788607).load(Username)]]
-	},
-	{
-		['Name'] = "Arch Angel",
-		['Function'] = [[require(2972034986):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Ares the Bladist",
-		['Function'] = [[require(5813806760).load(Username)]]
-	},
-	{
-		['Name'] = "Armo Drill Hand",
-		['Function'] = [[require(4941668834).load(Username)]]
-	},
-	{
-		['Name'] = "Armor Money Stand",
-		['Function'] = [[require(5164017575)("TH", Username)]]
-	},
-	{
-		['Name'] = "Artemis Sword",
-		['Function'] = [[require(4936491962).load(Username)]]
-	},
-	{
-		['Name'] = "Articulacy",
-		['Function'] = [[require(5730283203).Articulacy(Username)]]
-	},
-	{
-		['Name'] = "Auxno Glitcher V2",
-		['Function'] = [[require(5366687826)(Username)]]
-	},
-	{
-		['Name'] = "Axiom Glitcher",
-		['Function'] = [[require(4859515241).load(Username)]]
-	},
-	{
-		['Name'] = "Axiomette",
-		['Function'] = [[require(5018330008):Fire(Username)]]
-	},
-	{
-		['Name'] = "Balance God",
-		['Function'] = [[require(4702754589).load(Username)]]
-	},
-	{
-		['Name'] = "Bald Man With Powers",
-		['Function'] = [[require(5176617106).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Baldi",
-		['Function'] = [[require(4655442549).Fire(Username)]]
-	},
-	{
-		['Name'] = "Banzai Bazooka",
-		['Function'] = [[require(4610437218).load(Username)]]
-	},
-	{
-		['Name'] = "BaseBall Bat V5",
-		['Function'] = [[require(4559977647).load(Username)]]
-	},
-	{
-		['Name'] = "Basketball Bat V4",
-		['Function'] = [[require(4559963876).load(Username)]]
-	},
-	{
-		['Name'] = "Beerus",
-		['Function'] = [[require(4702700445).load(Username)]]
-	},
-	{
-		['Name'] = "Betty Noire",
-		['Function'] = [[require(5139373601).load(Username)]]
-	},
-	{
-		['Name'] = "Big Axiom Glitcher",
-		['Function'] = [[require(5320792048).load(Username)]]
-	},
-	{
-		['Name'] = "Big Daddy",
-		['Function'] = [[require(14174930725)(Username)]]
-	},
-	{
-		['Name'] = "Big Hammer",
-		['Function'] = [[require(4936233129).load(Username)]]
-	},
-	{
-		['Name'] = "Big Smoke",
-		['Function'] = [[require(4571438935).load(Username)]]
-	},
-	{
-		['Name'] = "Billie Eilish",
-		['Function'] = [[require(6213717452).load(Username)]]
-	},
-	{
-		['Name'] = "Black Dragon Exe",
-		['Function'] = [[require(4702452894).axe(Username)]]
-	},
-	{
-		['Name'] = "Black King Crismon",
-		['Function'] = [[require(5164017575)("WS", Username)]]
-	},
-	{
-		['Name'] = "Blade Magician",
-		['Function'] = [[require(4696442000).load(Username, "loaf")]]
-	},
-	{
-		['Name'] = "Blind Reaper",
-		['Function'] = [[require(4665382251).load(Username)]]
-	},
-	{
-		['Name'] = "Boom X4",
-		['Function'] = [[require(2830670878):Run(Username, "i baked you a pie")]]
-	},
-	{
-		['Name'] = "Bow Master",
-		['Function'] = [[require(4529618784).bruh(Username)]]
-	},
-	{
-		['Name'] = "Brick Hamman",
-		['Function'] = [[require(4702858285).load(Username)]]
-	},
-	{
-		['Name'] = "Brutal Anti Furry",
-		['Function'] = [[require(5062592514).load(Username)]]
-	},
-	{
-		['Name'] = "Brutal Overlord",
-		['Function'] = [[require(14174899510)(Username)]]
-	},
-	{
-		['Name'] = "Burning Darkness",
-		['Function'] = [[require(5209951430).load(Username)]]
-	},
-	{
-		['Name'] = "Cactos The Fallen God",
-		['Function'] = [[require(4667578923).jacob(Username)]]
-	},
-	{
-		['Name'] = "Cadilac",
-		['Function'] = [[require(4745872847).load(Username)]]
-	},
-	{
-		['Name'] = "Calamity",
-		['Function'] = [[require(4692253735):Start(Username, "AAA")]]
-	},
-	{
-		['Name'] = "Calamity V2",
-		['Function'] = [[require(4547981012).load(Username)]]
-	},
-	{
-		['Name'] = "Chain Magician",
-		['Function'] = [[require(4697906425).load(Username)]]
-	},
-	{
-		['Name'] = "Chaos",
-		['Function'] = [[require(4769150160).load(Username)]]
-	},
-	{
-		['Name'] = "Chaos Glitcher Rewritten",
-		['Function'] = [[require(3411076957).load(Username)]]
-	},
-	{
-		['Name'] = "Chaotic God",
-		['Function'] = [[require(4087387896).load(Username)]]
-	},
-	{
-		['Name'] = "Chara EDIT",
-		['Function'] = [[require(4967838561).load(Username)]]
-	},
-	{
-		['Name'] = "Chat Hax",
-		['Function'] = [[require(7219921484)(Username)]]
-	},
-	{
-		['Name'] = "Chat Logger",
-		['Function'] = [[require(5139065634).load(Username)]]
-	},
-	{
-		['Name'] = "ChemZBye",
-		['Function'] = [[require(5024271070):Start(Username, "AAA")]]
-	},
-	{
-		['Name'] = "Christmas Demolitionist",
-		['Function'] = [[require(6032614184).load(Username)]]
-	},
-	{
-		['Name'] = "Chrono Sentinel",
-		['Function'] = [[require(4661847142).load(Username)]]
-	},
-	{
-		['Name'] = "Cool Glitcher",
-		['Function'] = [[require(4859029728):Fire(Username)]]
-	},
-	{
-		['Name'] = "Cop",
-		['Function'] = [[require(4702165201).load(Username)]]
-	},
-	{
-		['Name'] = "Corrupted V2",
-		['Function'] = [[require(4864346299).load(Username)]]
-	},
-	{
-		['Name'] = "Crazy Diamond",
-		['Function'] = [[require(4902600443)("CD" ,Username)]]
-	},
-	{
-		['Name'] = "Creeper",
-		['Function'] = [[require(4708818072).Oaeh(Username)]]
-	},
-	{
-		['Name'] = "Cross Sans",
-		['Function'] = [[require(4571240623).load(Username)]]
-	},
-	{
-		['Name'] = "Cube Buster",
-		['Function'] = [[require(4661906279).load(Username)]]
-	},
-	{
-		['Name'] = "Cubix",
-		['Function'] = [[require(4702846562).load(Username)]]
-	},
-	{
-		['Name'] = "Cyber Monarch",
-		['Function'] = [[require(4701883865).load(Username)]]
-	},
-	{
-		['Name'] = "Cyber Warden",
-		['Function'] = [[require(2945942634):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Cyrus Glitcher",
-		['Function'] = [[require(4709075479).load(Username)]]
-	},
-	{
-		['Name'] = "DOE",
-		['Function'] = [[require(5408044316).c3(Username)]]
-	},
-	{
-		['Name'] = "Dark Noob Staff",
-		['Function'] = [[require(4941814153).load(Username)]]
-	},
-	{
-		['Name'] = "Celestial Glitcher",
-		['Function'] = [[require(0x2f720eb8c).FUZION(Username)]]
-	},
-	{
-		['Name'] = "Death",
-		['Function'] = [[require(4653294841).load(Username)]]
-	},
-	{
-		['Name'] = "Death Claws",
-		['Function'] = [[require(5030542276).load(Username)]]
-	},
-	{
-		['Name'] = "Death Note",
-		['Function'] = [[require(4872782223).load(Username)]]
-	},
-	{
-		['Name'] = "Demise",
-		['Function'] = [[require(5030531978).load(Username)]]
-	},
-	{
-		['Name'] = "Desolate",
-		['Function'] = [[require(6088494183).load(Username)]]
-	},
-	{
-		['Name'] = "Dimensional Glitcher",
-		['Function'] = [[require(4568781811).feetus(Username)]]
-	},
-	{
-		['Name'] = "Dio Sans",
-		['Function'] = [[require(5012377657).Stand(Username)]]
-	},
-	{
-		['Name'] = "Disturbed",
-		['Function'] = [[require(6099363076).load(Username)]]
-	},
-	{
-		['Name'] = "Dominant",
-		['Function'] = [[require(4470057542).load(Username)]]
-	},
-	{
-		['Name'] = "Dominus Corona",
-		['Function'] = [[require(14175091336)(Username)]]
-	},
-	{
-		['Name'] = "Dominus Phaedra",
-		['Function'] = [[require(14175087575)(Username)]]
-	},
-	{
-		['Name'] = "Dominus Switcher",
-		['Function'] = [[require(3424188196).load(Username)]]
-	},
-	{
-		['Name'] = "Double Guns",
-		['Function'] = [[require(4701773380).load(Username)]]
-	},
-	{
-		['Name'] = "Dssj3v2",
-		['Function'] = [[require(5051013449).load(Username)]]
-	},
-	{
-		['Name'] = "Dubstep Gun",
-		['Function'] = [[require(4442010059).load(Username)]]
-	},
-	{
-		['Name'] = "Dynamo",
-		['Function'] = [[require(3592159943).load(Username)]]
-	},
-	{
-		['Name'] = "Eerin",
-		['Function'] = [[require(4670359380).load(Username)]]
-	},
-	{
-		['Name'] = "Egg Dog",
-		['Function'] = [[require(4460809464).load(Username)]]
-	},
-	{
-		['Name'] = "Wander-Waffe",
-		['Function'] = [[require(4689263875).load(Username)]]
-	},
-	{
-		['Name'] = "Emoji God",
-		['Function'] = [[require(5823684505).load(Username)]]
-	},
-	{
-		['Name'] = "Empyr",
-		['Function'] = [[require(4666020750).load(Username)]]
-	},
-	{
-		['Name'] = "Empyrous",
-		['Function'] = [[require(4666053636).load(Username)]]
-	},
-	{
-		['Name'] = "Ender V4",
-		['Function'] = [[require(6226531940).load(Username)]]
-	},
-	{
-		['Name'] = "Etheral Glitcher",
-		['Function'] = [[require(5195082409).load(Username)]]
-	},
-	{
-		['Name'] = "Evil Horsemen",
-		['Function'] = [[require(3737497650).load(Username)]]
-	},
-	{
-		['Name'] = "Exoliner",
-		['Function'] = [[require(5002669725):Exoliner("lol", Username)]]
-	},
-	{
-		['Name'] = "External Glitcher",
-		['Function'] = [[require(7696090372).load(Username)]]
-	},
-	{
-		['Name'] = "Eyo-Zen",
-		['Function'] = [[require(4872676779).load(Username)]]
-	},
-	{
-		['Name'] = "Fallen Angel",
-		['Function'] = [[require(4490557105).load(Username)]]
-	},
-	{
-		['Name'] = "Fcsrz",
-		['Function'] = [[require(5084695239).eliza(Username)]]
-	},
-	{
-		['Name'] = "Felipe Ascension",
-		['Function'] = [[require(5339034667):Start(Username, "AAA")]]
-	},
-	{
-		['Name'] = "Felipe Ascension Full",
-		['Function'] = [[require(6091257111).eliza(Username)]]
-	},
-	{
-		['Name'] = "Felipe EDIT",
-		['Function'] = [[require(5419572761):Start(Username, "Admin")]]
-	},
-	{
-		['Name'] = "Flamingo Platinum",
-		['Function'] = [[require(4902600443)("FP", Username)]]
-	},
-	{
-		['Name'] = "Flying Teat Ball",
-		['Function'] = [[require(5185119522).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Force Choke",
-		['Function'] = [[require(5030052105).load(Username)]]
-	},
-	{
-		['Name'] = "Friend Glitcher Reborn",
-		['Function'] = [[require(4697789672).cyrus(Username)]]
-	},
-	{
-		['Name'] = "Frieza",
-		['Function'] = [[require(4967816334).load(Username)]]
-	},
-	{
-		['Name'] = "GFC",
-		['Function'] = [[require(5408062229).c3(Username)]]
-	},
-	{
-		['Name'] = "GLOB",
-		['Function'] = [[require(5408227768).c3(Username)]]
-	},
-	{
-		['Name'] = "Galaxy Glitcher",
-		['Function'] = [[require(4721766508):GalaxyGlitcher(Username)]]
-	},
-	{
-		['Name'] = "Gaster",
-		['Function'] = [[require(4702639572).load(Username)]]
-	},
-	{
-		['Name'] = "Gek Glitcher",
-		['Function'] = [[require(4789736147).load(Username)]]
-	},
-	{
-		['Name'] = "Genocider",
-		['Function'] = [[require(4666150028).load(Username)]]
-	},
-	{
-		['Name'] = "Giant Glock Gun",
-		['Function'] = [[require(2959952198):Fire(Username, "test")]]
-	},
-	{
-		['Name'] = "Giant Ultra Sans",
-		['Function'] = [[require(5336360739).eliza(Username)]]
-	},
-	{
-		['Name'] = "Giorgio Sans",
-		['Function'] = [[require(4930325164).load(Username)]]
-	},
-	{
-		['Name'] = "Girl Reaper",
-		['Function'] = [[require(03219306353).load(Username)]]
-	},
-	{
-		['Name'] = "Gladiator",
-		['Function'] = [[require(3507004797).load(Username)]]
-	},
-	{
-		['Name'] = "Gnome Launcher",
-		['Function'] = [[require(4907001821).gnome(Username)]]
-	},
-	{
-		['Name'] = "God Of Shapes",
-		['Function'] = [[require(4702356401).load(Username)]]
-	},
-	{
-		['Name'] = "God Slayer",
-		['Function'] = [[require(4698941018).load(Username)]]
-	},
-	{
-		['Name'] = "God Stand",
-		['Function'] = [[require(5237540972).load(Username)]]
-	},
-	{
-		['Name'] = "God's Abandoned Daughter",
-		['Function'] = [[require(5151004305).load(Username)]]
-	},
-	{
-		['Name'] = "Golden Gun",
-		['Function'] = [[require(4670612751).load(Username)]]
-	},
-	{
-		['Name'] = "Golden Ring",
-		['Function'] = [[require(4769118199).load(Username)]]
-	},
-	{
-		['Name'] = "Good Cop",
-		['Function'] = [[require(4697514241).load(Username)]]
-	},
-	{
-		['Name'] = "Grab Gun",
-		['Function'] = [[require(4804256797):Fire(Username,"a")]]
-	},
-	{
-		['Name'] = "Grab Knife V1",
-		['Function'] = [[require(13897098571)(Username)]]
-	},
-	{
-		['Name'] = "Grab Knife V2",
-		['Function'] = [[require(13897147153)(Username)]]
-	},
-	{
-		['Name'] = "Grab Knife V3",
-		['Function'] = [[require(14174586973)(Username)]]
-	},
-	{
-		['Name'] = "Grab Knife V4 Trial",
-		['Function'] = [[require(12736619973)(Username)]]
-	},
-	{
-		['Name'] = "Grab Knife V4 Premium",
-		['Function'] = [[require(14037398037)(Username)]]
-	},
-	{
-		['Name'] = "Grass Man",
-		['Function'] = [[require(5209210329).load(Username)]]
-	},
-	{
-		['Name'] = "Grav Hammer",
-		['Function'] = [[require(4702851632).load(Username)]]
-	},
-	{
-		['Name'] = "Guardian Gate Keeper",
-		['Function'] = [[require(5072179438).eliza(Username)]]
-	},
-	{
-		['Name'] = "Sealio V2 Guns Edit",
-		['Function'] = [[require(6772335342)(Username,"gjih3424g2iuIGAUD4oh42343")]]
-	},
-	{
-		['Name'] = "Sealio V2 Guns",
-		['Function'] = [[require(4882848368)(Username,"BEANMANBEANMAN")]]
-	},
-	{
-		['Name'] = "Sealio V1 Guns",
-		['Function'] = [[require(14068914753)(Username)]]
-	},
-	{
-		['Name'] = "Gun MLG",
-		['Function'] = [[require(4768250046).load(Username)]]
-	},
-	{
-		['Name'] = "Assassin",
-		['Function'] = [[require(5217353294).load(Username)]]
-	},
-	{
-		['Name'] = "HAM",
-		['Function'] = [[require(5408070604).c3(Username)]]
-	},
-	{
-		['Name'] = "Hacker",
-		['Function'] = [[require(4982745702).load(Username)]]
-	},
-	{
-		['Name'] = "Hacksaw",
-		['Function'] = [[require(4560014954).load(Username)]]
-	},
-	{
-		['Name'] = "Hallow Slayer",
-		['Function'] = [[require(2675506369).hal(Username)]]
-	},
-	{
-		['Name'] = "Headphones",
-		['Function'] = [[require(5003772814).load(Username)]]
-	},
-	{
-		['Name'] = "Holiday Feelings Edit",
-		['Function'] = [[require(5798223634).load(Username)]]
-	},
-	{
-		['Name'] = "Hoodie Stand",
-		['Function'] = [[require(5164017575)("KCR", Username)]]
-	},
-	{
-		['Name'] = "Hover Bike",
-		['Function'] = [[require(4652456395).load(Username)]]
-	},
-	{
-		['Name'] = "Hype Unleashed",
-		['Function'] = [[require(4469835482).load(Username)]]
-	},
-	{
-		['Name'] = "I.R.O.N",
-		['Function'] = [[require(4736979488).load(Username)]]
-	},
-	{
-		['Name'] = "Ice Cream",
-		['Function'] = [[require(14174940360)(Username)]]
-	},
-	{
-		['Name'] = "Ice Neptunian",
-		['Function'] = [[require(14217318302)(Username)]]
-	},
-	{
-		['Name'] = "Iluminati",
-		['Function'] = [[require(2945897470):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Imposter",
-		['Function'] = [[require(5828018389)(Username)]]
-	},
-	{
-		['Name'] = "Incension",
-		['Function'] = [[require(4672563258).load(Username)]]
-	},
-	{
-		['Name'] = "Indrish Zrestik",
-		['Function'] = [[require(5019013695):Fire(Username)]]
-	},
-	{
-		['Name'] = "Inferno",
-		['Function'] = [[require(4698997515).load(Username)]]
-	},
-	{
-		['Name'] = "Infinity Gaunglet",
-		['Function'] = [[require(4622105140).load(Username)]]
-	},
-	{
-		['Name'] = "Infinity Gaunglet V2",
-		['Function'] = [[require(5332028482).eliza(Username)]]
-	},
-	{
-		['Name'] = "Influx",
-		['Function'] = [[require(5089116221).load(Username)]]
-	},
-	{
-		['Name'] = "Insane Geocider",
-		['Function'] = [[require(4697978790).load(Username)]]
-	},
-	{
-		['Name'] = "Iron Man",
-		['Function'] = [[require(4949149864)(Username)]]
-	},
-	{
-		['Name'] = "Iron Nazi",
-		['Function'] = [[require(5493872436).eliza(Username)]]
-	},
-	{
-		['Name'] = "Is Gone",
-		['Function'] = [[require(2800498919):Run(Username, "i baked you a pie")]]
-	},
-	{
-		['Name'] = "Jester",
-		['Function'] = [[require(4670278173).load(Username)]]
-	},
-	{
-		['Name'] = "JoJo Gaunglet",
-		['Function'] = [[require(4570858053).load(Username)]]
-	},
-	{
-		['Name'] = "JoJo Stands",
-		['Function'] = [[require(5029154308).skid(Username)]]
-	},
-	{
-		['Name'] = "John Doe",
-		['Function'] = [[require(4622189585).load(Username)]]
-	},
-	{
-		['Name'] = "John Doe Blaster",
-		['Function'] = [[require(4963046652).load(Username)]]
-	},
-	{
-		['Name'] = "John Wick",
-		['Function'] = [[require(4721853215):Fire(Username)]]
-	},
-	{
-		['Name'] = "Jump In The Caac",
-		['Function'] = [[require(4702631513).load(Username)]]
-	},
-	{
-		['Name'] = "KAOI",
-		['Function'] = [[require(5408161881).c3(Username)]]
-	},
-	{
-		['Name'] = "Karambit",
-		['Function'] = [[require(4652908514).load(Username)]]
-	},
-	{
-		['Name'] = "Kazoo Kid",
-		['Function'] = [[require(4827295805).load(Username)]]
-	},
-	{
-		['Name'] = "Kidnap Gui",
-		['Function'] = [[require(5121582789).load(Username)]]
-	},
-	{
-		['Name'] = "Killbot GKB",
-		['Function'] = [[require(5334345785).eliza(Username)]]
-	},
-	{
-		['Name'] = "Killbot V1",
-		['Function'] = [[require(5060486878).load(Username)]]
-	},
-	{
-		['Name'] = "Killbot V2",
-		['Function'] = [[require(4612625355).load(Username)]]
-	},
-	{
-		['Name'] = "Killbot V2 Edit",
-		['Function'] = [[require(4938336305).load(Username)]]
-	},
-	{
-		['Name'] = "Killbot V2 Official",
-		['Function'] = [[require(4613126715)(3720592397).killbot(Username)]]
-	},
-	{
-		['Name'] = "King Ashoal Hammer",
-		['Function'] = [[require(4932680647).load(Username)]]
-	},
-	{
-		['Name'] = "Kirito Blades",
-		['Function'] = [[require(4692761134).load(Username)]]
-	},
-	{
-		['Name'] = "Kitchen Gun",
-		['Function'] = [[require(4692732456).load(Username)]]
-	},
-	{
-		['Name'] = "Krystal Dance",
-		['Function'] = [[require(4698336332).load(Username)]]
-	},
-	{
-		['Name'] = "Kuma",
-		['Function'] = [[require(6099324864).load(Username)]]
-	},
-	{
-		['Name'] = "Leaf Glitcher",
-		['Function'] = [[require(5011085256).load(Username)]]
-	},
-	{
-		['Name'] = "Lost Dead Astronaut",
-		['Function'] = [[require(5014286842):Fire(Username)]]
-	},
-	{
-		['Name'] = "Lunar Rabbit",
-		['Function'] = [[require(5166762777).load(Username,"hack")]]
-	},
-	{
-		['Name'] = "Lustris V1",
-		['Function'] = [[require(2845906776).ooga(Username)]]
-	},
-	{
-		['Name'] = "Lustris V2",
-		['Function'] = [[require(4867877044).load(Username)]]
-	},
-	{
-		['Name'] = "M16A3",
-		['Function'] = [[require(4738642243).load(Username)]]
-	},
-	{
-		['Name'] = "MSG Glitcher",
-		['Function'] = [[require(4841108027).MSG(Username)]]
-	},
-	{
-		['Name'] = "Magic Broadsword",
-		['Function'] = [[require(4941688312).load(Username)]]
-	},
-	{
-		['Name'] = "Magic Warrior",
-		['Function'] = [[require(5201019051).load(Username, "i baked you a pie")]]
-	},
-	{
-		['Name'] = "Magma Blade",
-		['Function'] = [[require(5014563257):Fire(Username)]]
-	},
-	{
-		['Name'] = "Mario Stand",
-		['Function'] = [[require(5154400874).load(Username)]]
-	},
-	{
-		['Name'] = "Master Of Elements",
-		['Function'] = [[require(4613142557).load(Username)]]
-	},
-	{
-		['Name'] = "Mega Titan",
-		['Function'] = [[require(4875502693).load(Username)]]
-	},
-	{
-		['Name'] = "Meme Glitcher",
-		['Function'] = [[require(4667651562).load(Username)]]
-	},
-	{
-		['Name'] = "Midnight Glitcher",
-		['Function'] = [[require(4687981421).load(Username)]]
-	},
-	{
-		['Name'] = "More Guns",
-		['Function'] = [[require(4922496226).Dreamer(Username)]]
-	},
-	{
-		['Name'] = "Motolov",
-		['Function'] = [[require(4738637093).load(Username)]]
-	},
-	{
-		['Name'] = "Mr Bye Bye",
-		['Function'] = [[require(4620262474).load(Username)]]
-	},
-	{
-		['Name'] = "Mr Pixels Glitcher",
-		['Function'] = [[require(4178465932).MPG(Username)]]
-	},
-	{
-		['Name'] = "Mr Ware",
-		['Function'] = [[require(4481387757).load(Username)]]
-	},
-	{
-		['Name'] = "Mr Ware V2",
-		['Function'] = [[require(6222865648).load(Username)]]
-	},
-	{
-		['Name'] = "Murderer",
-		['Function'] = [[require(3709746847).load(Username)]]
-	},
-	{
-		['Name'] = "Murderer Glitcher",
-		['Function'] = [[require(4785070948).load(Username)]]
-	},
-	{
-		['Name'] = "Musterd Gas",
-		['Function'] = [[require(2989312214).load(Username)]]
-	},
-	{
-		['Name'] = "NG3",
-		['Function'] = [[require(5407178653).c3(Username)]]
-	},
-	{
-		['Name'] = "Nebula Staff",
-		['Function'] = [[require(5152312822).load(Username)]]
-	},
-	{
-		['Name'] = "Nebula Star Glitcher V1.1",
-		['Function'] = [[require(4749896781).no(Username)]]
-	},
-	{
-		['Name'] = "Nectula",
-		['Function'] = [[require(3224070083).load(Username)]]
-	},
-	{
-		['Name'] = "NelfHelm Boss",
-		['Function'] = [[require(4769128965).load(Username)]]
-	},
-	{
-		['Name'] = "Neptunian V",
-		['Function'] = [[require(14217435560)(Username)]]
-	},
-	{
-		['Name'] = "Neptunian V Edit",
-		['Function'] = [[require(14217382860)(Username)]]
-	},
-	{
-		['Name'] = "Neptunian Gun Knife",
-		['Function'] = [[require(14174923555)(Username)]]
-	},
-	{
-		['Name'] = "Neurotic",
-		['Function'] = [[require(4653118489).load(Username)]]
-	},
-	{
-		['Name'] = "No Head Man",
-		['Function'] = [[require(5161627296).GOD(Username, "hack")]]
-	},
-	{
-		['Name'] = "Noob Knife",
-		['Function'] = [[require(4678565946):Fire(Username)]]
-	},
-	{
-		['Name'] = "Noob Staff",
-		['Function'] = [[require(4931685212).load(Username)]]
-	},
-	{
-		['Name'] = "Noob Stand",
-		['Function'] = [[require(4902600443)("MTW", Username)]]
-	},
-	{
-		['Name'] = "Noobcider",
-		['Function'] = [[require(4721712660).vi(Username)]]
-	},
-	{
-		['Name'] = "Normal Stand",
-		['Function'] = [[require(4902600443)("KQ", Username)]]
-	},
-	{
-		['Name'] = "Nuclear Minigun",
-		['Function'] = [[require(5176504023).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Nuclear Toxic Hulk",
-		['Function'] = [[require(4844357782).load(Username)]]
-	},
-	{
-		['Name'] = "OP Entity",
-		['Function'] = [[require(4484551798).load(Username)]]
-	},
-	{
-		['Name'] = "Omega Chara",
-		['Function'] = [[require(5300018825).load(Username)]]
-	},
-	{
-		['Name'] = "Omega Gaster",
-		['Function'] = [[require(5299793703).load(Username)]]
-	},
-	{
-		['Name'] = "Omega Sans",
-		['Function'] = [[require(5292863529).load(Username)]]
-	},
-	{
-		['Name'] = "Oof Sans",
-		['Function'] = [[require(4930245801).Sans(Username)]]
-	},
-	{
-		['Name'] = "OofNos",
-		['Function'] = [[require(5221007407).oofth(Username)]]
-	},
-	{
-		['Name'] = "PART",
-		['Function'] = [[require(5408268209).c3(Username)]]
-	},
-	{
-		['Name'] = "Peculiarity",
-		['Function'] = [[require(4764820430):Table_MSG(Username)]]
-	},
-	{
-		['Name'] = "Periastrons",
-		['Function'] = [[require(4207280012).load(Username)]]
-	},
-	{
-		['Name'] = "PewDiePie Star Glitcher",
-		['Function'] = [[require(4667651562).load(Username)]]
-	},
-	{
-		['Name'] = "Pharaoh",
-		['Function'] = [[require(4481365713).load(Username)]]
-	},
-	{
-		['Name'] = "Piggy",
-		['Function'] = [[require(5162050572).eliza(Username)]]
-	},
-	{
-		['Name'] = "Pink Guns",
-		['Function'] = [[require(4702745086).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "PipBoy",
-		['Function'] = [[require(4939065623).load(Username)]]
-	},
-	{
-		['Name'] = "Pipe",
-		['Function'] = [[require(4560063191).load(Username)]]
-	},
-	{
-		['Name'] = "Player Size Gui",
-		['Function'] = [[require(5194254117).load(Username)]]
-	},
-	{
-		['Name'] = "Poison Gods Blade",
-		['Function'] = [[require(5185282393).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Portal Gun",
-		['Function'] = [[require(4942134331).load(Username)]]
-	},
-	{
-		['Name'] = "Powerfull Eye",
-		['Function'] = [[require(5234402758).load(Username)]]
-	},
-	{
-		['Name'] = "Prism Code",
-		['Function'] = [[require(14175897423)(Username)]]
-	},
-	{
-		['Name'] = "Project 44033514",
-		['Function'] = [[require(5150855227).load(Username)]]
-	},
-	{
-		['Name'] = "Pulse",
-		['Function'] = [[require(5018304703)(Username)]]
-	},
-	{
-		['Name'] = "Pumpkin Overseer",
-		['Function'] = [[require(4702210473).load(Username)]]
-	},
-	{
-		['Name'] = "Purple Bog Monster",
-		['Function'] = [[require(5176704597).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Purple Guy",
-		['Function'] = [[require(5303528309).G(Username)]]
-	},
-	{
-		['Name'] = "Quantom Glitcher",
-		['Function'] = [[require(4652539736)(Username)]]
-	},
-	{
-		['Name'] = "RLL",
-		['Function'] = [[require(5018042393):Fire(Username)]]
-	},
-	{
-		['Name'] = "Ragdoll Pan",
-		['Function'] = [[require(2946000013):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Rainbow Goner",
-		['Function'] = [[require(4949010161).G(Username)]]
-	},
-	{
-		['Name'] = "Rainbow Stand",
-		['Function'] = [[require(4930502743).load(Username)]]
-	},
-	{
-		['Name'] = "Ravenger ~StopScript",
-		['Function'] = [[require(2557441421)(Username)]]
-	},
-	{
-		['Name'] = "Ravenger V2",
-		['Function'] = [[require(6099373575).load(Username)]]
-	},
-	{
-		['Name'] = "Reality Glitcher",
-		['Function'] = [[require(4721789462).noxd(Username)]]
-	},
-	{
-		['Name'] = "Reality Orb",
-		['Function'] = [[require(4989257368).load(Username)]]
-	},
-	{
-		['Name'] = "Red Mr Bye Bye",
-		['Function'] = [[require(4871023391).load(Username, "loaf")]]
-	},
-	{
-		['Name'] = "Red Neptunian V",
-		['Function'] = [[require(14217403657)(Username)]]
-	},
-	{
-		['Name'] = "Red Scythe",
-		['Function'] = [[require(3543603059).load(Username)]]
-	},
-	{
-		['Name'] = "Reminence Glitcher",
-		['Function'] = [[require(4791595149).load(Username)]]
-	},
-	{
-		['Name'] = "Ruby Golem",
-		['Function'] = [[require(5014302712):Fire(Username)]]
-	},
-	{
-		['Name'] = "Ruin EX",
-		['Function'] = [[require(14175887100)(Username)]]
-	},
-	{
-		['Name'] = "Ruin Erratum",
-		['Function'] = [[require(6085232514).load(Username)]]
-	},
-	{
-		['Name'] = "Ruin IX",
-		['Function'] = [[require(6223727749).load(Username)]]
-	},
-	{
-		['Name'] = "Ruin LX",
-		['Function'] = [[require(4721721691).lx(Username)]]
-	},
-	{
-		['Name'] = "Ruler Of the Universe",
-		['Function'] = [[require(4967832773).load(Username)]]
-	},
-	{
-		['Name'] = "S Thomas",
-		['Function'] = [[require(5014354119):Fire(Username)]]
-	},
-	{
-		['Name'] = "SCP 096",
-		['Function'] = [[require(5061767478).load(Username)]]
-	},
-	{
-		['Name'] = "SCP 106",
-		['Function'] = [[require(5065079644):Fire(Username)]]
-	},
-	{
-		['Name'] = "SGRS",
-		['Function'] = [[require(4521367095).load(Username)]]
-	},
-	{
-		['Name'] = "SS Detector",
-		['Function'] = [[require(5486428805).Detect(Username)]]
-	},
-	{
-		['Name'] = "Sadist Genocider",
-		['Function'] = [[require(4700942162).load(Username)]]
-	},
-	{
-		['Name'] = "Saneeees",
-		['Function'] = [[require(4176847784).load(Username)]]
-	},
-	{
-		['Name'] = "Sans Gaster",
-		['Function'] = [[require(3628802124).load(Username)]]
-	},
-	{
-		['Name'] = "Sans Last Breath Another Edit",
-		['Function'] = [[require(4507584604).load(Username)]]
-	},
-	{
-		['Name'] = "Satanic Samurai",
-		['Function'] = [[require(4735130128).hal(Username)]]
-	},
-	{
-		['Name'] = "School Shooter",
-		['Function'] = [[require(2826823504):Run(Username,"i baked you a pie")]]
-	},
-	{
-		['Name'] = "School Shooter Remake",
-		['Function'] = [[require(3548505226):Fire(Username,"i baked you a pie")]]
-	},
-	{
-		['Name'] = "Scissor Zombie",
-		['Function'] = [[require(5195833016).load(Username, "test")]]
-	},
-	{
-		['Name'] = "Scythe",
-		['Function'] = [[require(5176829184).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Server Admin",
-		['Function'] = [[require(4665394711).load(Username)]]
-	},
-	{
-		['Name'] = "Shackluster's Knife",
-		['Function'] = [[require(4702233499).load(Username)]]
-	},
-	{
-		['Name'] = "Shield Fiend",
-		['Function'] = [[require(4703411081).load(Username)]]
-	},
-	{
-		['Name'] = "Shini-G4-MI",
-		['Function'] = [[require(4610405562).load(Username)]]
-	},
-	{
-		['Name'] = "Shrike",
-		['Function'] = [[require(4699164303).load(Username)]]
-	},
-	{
-		['Name'] = "Sin 3.5",
-		['Function'] = [[require(2787132106):Run(Username, "hack")]]
-	},
-	{
-		['Name'] = "Sin Dragon",
-		['Function'] = [[require(14136474118)(Username)]]
-	},
-	{
-		['Name'] = "Sin V2",
-		['Function'] = [[require(4710057607).load(Username)]]
-	},
-	{
-		['Name'] = "Skid Switcher V2",
-		['Function'] = [[require(5382391946).skids2(Username)]]
-	},
-	{
-		['Name'] = "Skuller",
-		['Function'] = [[require(5405863585).G(Username)]]
-	},
-	{
-		['Name'] = "Sky Glitcher",
-		['Function'] = [[require(3564207744):sky(Username)]]
-	},
-	{
-		['Name'] = "Slapping Fish",
-		['Function'] = [[require(5180702303).load(Username)]]
-	},
-	{
-		['Name'] = "Snow Golem",
-		['Function'] = [[require(4697837332).load(Username)]]
-	},
-	{
-		['Name'] = "Snow Machine",
-		['Function'] = [[require(4570458887).load(Username)]]
-	},
-	{
-		['Name'] = "Solaris",
-		['Function'] = [[require(2946060158):Fire(Username, "hack")]]
-	},
-	{
-		['Name'] = "Spectrum Glitcher Remake",
-		['Function'] = [[require(4809742472).load(Username)]]
-	},
-	{
-		['Name'] = "Spectum Glitcher",
-		['Function'] = [[require(4801286155).load(Username)]]
-	},
-	{
-		['Name'] = "Spell Caster",
-		['Function'] = [[require(4878971408).load(Username)]]
-	},
-	{
-		['Name'] = "Spiderbot",
-		['Function'] = [[require(4666386879).load(Username)]]
-	},
-	{
-		['Name'] = "Spiderman",
-		['Function'] = [[require(5010081614):Fire(Username)]]
-	},
-	{
-		['Name'] = "Spongebob Bus",
-		['Function'] = [[require(5206315724).load(Username)]]
-	},
-	{
-		['Name'] = "Squat Man",
-		['Function'] = [[require(6049369369).load(Username)]]
-	},
-	{
-		['Name'] = "Star Glitcher",
-		['Function'] = [[require(4721922423).load(Username, "test")]]
-	},
-	{
-		['Name'] = "Star Glitcher V7",
-		['Function'] = [[require(4737096190).load(Username)]]
-	},
-	{
-		['Name'] = "Star Time Glitcher",
-		['Function'] = [[require(5480093885):StarGlitcherTime(Username)]]
-	},
-	{
-		['Name'] = "Starlight",
-		['Function'] = [[require(4874790622).load(Username)]]
-	},
-	{
-		['Name'] = "Steve Stand",
-		['Function'] = [[require(4902600443)("STV", Username)]]
-	},
-	{
-		['Name'] = "Studio",
-		['Function'] = [[require(4698656280).load(Username)]]
-	},
-	{
-		['Name'] = "Suicide Injection",
-		['Function'] = [[require(4942136324).load(Username)]]
-	},
-	{
-		['Name'] = "Sun God",
-		['Function'] = [[require(5185178205).load(Username, "hack")]]
-	},
-	{
-		['Name'] = "Super MSG",
-		['Function'] = [[require(5339730995)["owo"](Username)]];
-	},
-	{
-		['Name'] = "Supernova",
-		['Function'] = [[require(5407130919).c3(Username)]]
-	},
-	{
-		['Name'] = "Switcher",
-		['Function'] = [[require(4666430249).cancerv3(Username)]]
-	},
-	{
-		['Name'] = "Switcher V4",
-		['Function'] = [[require(4639995976).v4(Username)]]
-	},
-	{
-		['Name'] = "Syrian Soldier",
-		['Function'] = [[require(4967315171).load(Username, "test")]]
-	},
-	{
-		['Name'] = "Sythenizer Glitcher",
-		['Function'] = [[require(5339705018).load(Username)]]
-	},
-	{
-		['Name'] = "TB Flamethrower",
-		['Function'] = [[require(4483948796).load(Username)]]
-	},
-	{
-		['Name'] = "TV",
-		['Function'] = [[require(5408234869).c3(Username)]]
-	},
-	{
-		['Name'] = "Tall Man",
-		['Function'] = [[require(5760006539).load(Username)]]
-	},
-	{
-		['Name'] = "Tank",
-		['Function'] = [[require(5068511197).insert(Username)]]
-	},
-	{
-		['Name'] = "Tatrionical Fataliser",
-		['Function'] = [[require(4702362667).load(Username)]]
-	},
-	{
-		['Name'] = "Tea",
-		['Function'] = [[require(3543575474).load(Username)]]
-	},
-	{
-		['Name'] = "Techno Fairy",
-		['Function'] = [[require(4872735633).load(Username)]]
-	},
-	{
-		['Name'] = "Telemons's Hammer",
-		['Function'] = [[require(4942331079).load(Username)]]
-	},
-	{
-		['Name'] = "Terraria Sword",
-		['Function'] = [[require(5185317856).load(Username)]]
-	},
-	{
-		['Name'] = "Tesseract",
-		['Function'] = [[require(4611972434).load(Username)]]
-	},
-	{
-		['Name'] = "Thanos Glove",
-		['Function'] = [[require(7714457940).load(Username)]]
-	},
-	{
-		['Name'] = "The Amulet",
-		['Function'] = [[require(5813871571).load(Username)]]
-	},
-	{
-		['Name'] = "The Ancient Voodoo Child",
-		['Function'] = [[require(6243450493).load(Username)]]
-	},
-	{
-		['Name'] = "The Hand",
-		['Function'] = [[require(3095760045):Fire(Username)]]
-	},
-	{
-		['Name'] = "The Holy Vaccum",
-		['Function'] = [[require(4932480712).load(Username)]]
-	},
-	{
-		['Name'] = "The Hotline",
-		['Function'] = [[require(5813879549).load(Username)]]
-	},
-	{
-		['Name'] = "The Murderer",
-		['Function'] = [[require(5122252940)(Username)]]
-	},
-	{
-		['Name'] = "Thiago's Glitcher",
-		['Function'] = [[require(5012778305).bro(Username)]]
-	},
-	{
-		['Name'] = "Thomas The Tank Engine",
-		['Function'] = [[require(4702393505).load(Username)]]
-	},
-	{
-		['Name'] = "Thug Skeleton",
-		['Function'] = [[require(5199565192).load(Username)]]
-	},
-	{
-		['Name'] = "Toxi",
-		['Function'] = [[require(4766340057).ww(Username)]]
-	},
-	{
-		['Name'] = "Turbolizer?",
-		['Function'] = [[require(6042884042).load(Username)]]
-	},
-	{
-		['Name'] = "Turret Car",
-		['Function'] = [[require(5185235553).load(Username)]]
-	},
-	{
-		['Name'] = "UFO",
-		['Function'] = [[require(5408177599).c3(Username)]]
-	},
-	{
-		['Name'] = "Ubergod",
-		['Function'] = [[require(4666103936).load(Username)]]
-	},
-	{
-		['Name'] = "Ultimate Guest",
-		['Function'] = [[require(4952074297).load(Username)]]
-	},
-	{
-		['Name'] = "Ultimate Star Glitcher",
-		['Function'] = [[require(4685277097).SGU(Username)]]
-	},
-	{
-		['Name'] = "Ultra Ali",
-		['Function'] = [[require(3287961196):Fireplace(Username)]]
-	},
-	{
-		['Name'] = "Ultra Sans",
-		['Function'] = [[require(5191195848).eliza(Username)]]
-	},
-	{
-		['Name'] = "Umbra Mercenary",
-		['Function'] = [[require(4766332788).vv(Username)]]
-	},
-	{
-		['Name'] = "Unknow Magic",
-		['Function'] = [[require(4721880357):Fire(Username)]]
-	},
-	{
-		['Name'] = "VRON",
-		['Function'] = [[require(5408250642).c3(Username)]]
-	},
-	{
-		['Name'] = "Van (Target Name)",
-		['Function'] = [[require(7219625364).Van(Username)]]
-	},
-	{
-		['Name'] = "Vereus",
-		['Function'] = [[require(4875169740).load(Username)]]
-	},
-	{
-		['Name'] = "Viankos",
-		['Function'] = [[require(6123029966).vian(Username)]]
-	},
-	{
-		['Name'] = "Video Powers",
-		['Function'] = [[require(4702362667).load(Username)]]
-	},
-	{
-		['Name'] = "Void",
-		['Function'] = [[require(4470446746).load(Username)]]
-	},
-	{
-		['Name'] = "Void Boss",
-		['Function'] = [[require(4769881811).load(Username)]]
-	},
-	{
-		['Name'] = "Void Boss V3",
-		['Function'] = [[require(4175593306).Void(Username)]]
-	},
-	{
-		['Name'] = "Void Eye",
-		['Function'] = [[require(4769099074).load(Username)]]
-	},
-	{
-		['Name'] = "Void Prince",
-		['Function'] = [[require(4771194490):void(Username)]]
-	},
-	{
-		['Name'] = "Volcanic's Guns",
-		['Function'] = [[require(4741518800).Guns(Username)]]
-	},
-	{
-		['Name'] = "Vortex Gaunglets",
-		['Function'] = [[require(5030632363).load(Username)]]
-	},
-	{
-		['Name'] = "WDY Form",
-		['Function'] = [[require(5150834064).load(Username)]]
-	},
-	{
-		['Name'] = "Wanderer",
-		['Function'] = [[require(5234431005).load(Username)]]
-	},
-	{
-		['Name'] = "Warden",
-		['Function'] = [[require(4698484171).load(Username)]]
-	},
-	{
-		['Name'] = "Warrior Glitcher",
-		['Function'] = [[require(4658039182).load(Username)]]
-	},
-	{
-		['Name'] = "What Another One V2.5",
-		['Function'] = [[require(2598638616).coolify(Username)]]
-	},
-	{
-		['Name'] = "What Another One V2",
-		['Function'] = [[require(4192009387).load(Username)]]
-	},
-	{
-		['Name'] = "What Another One V1",
-		['Function'] = [[require(5219890557).load(Username, "anotherv1")]]
-	},
-	{
-		['Name'] = "Will Of Justice",
-		['Function'] = [[require(5138330292).load(Username)]]
-	},
-	{
-		['Name'] = "Winter Conjurer",
-		['Function'] = [[require(4702823533).load(Username)]]
-	},
-	{
-		['Name'] = "Wyvern",
-		['Function'] = [[require(4661961003).load(Username)]]
-	},
-	{
-		['Name'] = "Xester",
-		['Function'] = [[require(14175124863)(Username)]]
-	},
-	{
-		['Name'] = "Xester V2",
-		['Function'] = [[require(6099241563).load(Username)]]
-	},
-	{
-		['Name'] = "Yellow Sword",
-		['Function'] = [[require(5166648286).load(Username, "test")]]
-	},
-	{
-		['Name'] = "Zalgo",
-		['Function'] = [[require(5225108665).Dark(Username)]]
-	},
-	{
-		['Name'] = "Zamazu",
-		['Function'] = [[require(4697880637).load(Username)]]
-	},
-	{
-		['Name'] = "Zen Master",
-		['Function'] = [[require(5072179438).eliza(Username)]]
-	},
-	{
-		['Name'] = "Zenith BR-70",
-		['Function'] = [[require(4590297182).load(Username)]]
-	},
-	{
-		['Name'] = "Zephir",
-		['Function'] = [[require(6099248386).load(Username)]]
-	},
-	{
-		['Name'] = "Zubus Grab Knife",
-		['Function'] = [[require(4528405939).load(Username)]]
-	},
-	{
-		['Name'] = "Zythian",
-		['Function'] = [[require(4666351790).load(Username)]]
-	},
-}
+local Table = table.create(0)
+local subTable
+subTable = table.create(0)
+subTable.Name = "Wind Katana"
+subTable.Function = function(Username) require(14175063457)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gunjourer"
+subTable.Function = function(Username) require(14175074837)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Empyreus"
+subTable.Function = function(Username) require(14175081924)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Bow Master"
+subTable.Function = function(Username) require(14175067340)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Abyss Eye"
+subTable.Function = function(Username) require(14175105993)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sing"
+subTable.Function = function(Username) require(14187594656)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Notive"
+subTable.Function = function(Username) require(14175901126)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fred Bear"
+subTable.Function = function(Username) require(13761549843).pedobear(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lunarist Gauntlet"
+subTable.Function = function(Username) require(14175883434)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hooded Arch Angel"
+subTable.Function = function(Username) require(14175891187)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Skull Kid"
+subTable.Function = function(Username) require(14175894408)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Marble Stun Hammer"
+subTable.Function = function(Username) require(14174944324)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Preach"
+subTable.Function = function(Username) require(14174908319)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Creep"
+subTable.Function = function(Username) require(14174895980)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Internal War"
+subTable.Function = function(Username) require(6152259244).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pizza Guy"
+subTable.Function = function(Username) require(14021508601).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Original Star Glitcher"
+subTable.Function = function(Username) require(5338622654).a(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Wiron"
+subTable.Function = function(Username) require(7972125129).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Wasp Fighter Jet"
+subTable.Function = function(Username) require(5860060462).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tiny Infernus"
+subTable.Function = function(Username) require(8828734242)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rolling Ball Omen"
+subTable.Function = function(Username) require(8824302289).omen(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Road Rogue"
+subTable.Function = function(Username) require(7473216460).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mercenary"
+subTable.Function = function(Username) require(5177488826).Soldier(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Halo Master Chief"
+subTable.Function = function(Username) require(5812973403).Halo(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gale Fighter"
+subTable.Function = function(Username) require(4880192192).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Full Armory Soldier"
+subTable.Function = function(Username) require(4677541512).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fruit Launcher"
+subTable.Function = function(Username) require(6226957648).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Flying Spaceship"
+subTable.Function = function(Username) require(4922372692).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Firework Organizer"
+subTable.Function = function(Username) require(8824302289).omen(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Elite Combine"
+subTable.Function = function(Username) require(7548845598).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Eden Security Drone"
+subTable.Function = function(Username) require(4021519500).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Atlas Axe"
+subTable.Function = function(Username) require(6438361301).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Memento Mori"
+subTable.Function = function(Username) require(7473246984).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sadist / Sadique Redux"
+subTable.Function = function(Username) require(13886731002)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Broken Angel"
+subTable.Function = function(Username) require(13887185366).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Goner"
+subTable.Function = function(Username) require(4536456687):Fire(Username, "a") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Telekinesis"
+subTable.Function = function(Username) require(5201088212).load(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ender"
+subTable.Function = function(Username) require(5835981584):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ender V2"
+subTable.Function = function(Username) require(11839987547).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Eyo-Zen V2"
+subTable.Function = function(Username) require(5892684980).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "What Another One V1.5"
+subTable.Function = function(Username) require(11838287024).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omni God"
+subTable.Function = function(Username) require(14186351007)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Strat v2 Glitcher"
+subTable.Function = function(Username) require(11792033063).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Finium Glitcher"
+subTable.Function = function(Username) require(11797213354).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sprectraversum Glitcher"
+subTable.Function = function(Username) require(11791988807).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Exsorius Glitcher"
+subTable.Function = function(Username) require(11792006247).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Arbitrarium Glitcher"
+subTable.Function = function(Username) require(11791792396).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Outcast"
+subTable.Function = function(Username) require(5229592351).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Comedic Chaos"
+subTable.Function = function(Username) require(8837899654).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Demoknight"
+subTable.Function = function(Username) require(9075443934).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "True Madness V2"
+subTable.Function = function(Username) require(8038084808).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Notive"
+subTable.Function = function(Username) require(14175901126)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Distraught Fire Elemental"
+subTable.Function = function(Username) require(6492319825).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Red Mist"
+subTable.Function = function(Username) require(7473206349).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chess King"
+subTable.Function = function(Username) require(6223977609)["ChessKing"](Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Animation Man"
+subTable.Function = function(Username) require(8076428410).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Florus"
+subTable.Function = function(Username) require(7972247318).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pet Leash"
+subTable.Function = function(Username) require(8375420639).get("PetLeash", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Terraprisma"
+subTable.Function = function(Username) require(8038024771).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Night's Edge"
+subTable.Function = function(Username) require(8665701840).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Minecraft Potions"
+subTable.Function = function(Username) require(8753925776)(Username,true) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zal_go The Corruptor"
+subTable.Function = function(Username) require(8165331700).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Thanos"
+subTable.Function = function(Username) require(2960340602):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Draw"
+subTable.Function = function(Username) require(2966602068):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Elio Basio"
+subTable.Function = function(Username) require(2972449136):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Meerin"
+subTable.Function = function(Username) require(4383182842).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Neptunian V5 Remake"
+subTable.Function = function(Username) require(14217235618)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Guest Glitcher"
+subTable.Function = function(Username) require(4795296269).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Buff Noob"
+subTable.Function = function(Username) require(2946085544):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Astra"
+subTable.Function = function(Username) require(2946064785):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chara V1"
+subTable.Function = function(Username) require(2945816118):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Jane Doe"
+subTable.Function = function(Username) require(4599267783).ooga(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Diamond Sword"
+subTable.Function = function(Username) require(5300507859).Dark(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Evelyn"
+subTable.Function = function(Username) require(4702863762).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shopping Cart"
+subTable.Function = function(Username) require(2959866384):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nullioner"
+subTable.Function = function(Username) require(7972181516).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Soul Reaper"
+subTable.Function = function(Username) require(7972086233).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Craze Runner"
+subTable.Function = function(Username) require(7972228214).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Crawl"
+subTable.Function = function(Username) require(7972019185).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Parkour"
+subTable.Function = function(Username) require(8076509064).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "True Insanity"
+subTable.Function = function(Username) require(7972153307).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Vancuit"
+subTable.Function = function(Username) require(8037922072).CLoad(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Parallelence Glitcher"
+subTable.Function = function(Username) require(7686265209 ).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Awoken Glitcher"
+subTable.Function = function(Username) require(6223977609).giveSortermRW(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Excellence Glitcher"
+subTable.Function = function(Username) require(7686271856).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Devoyance Glitcher"
+subTable.Function = function(Username) require(7619760576)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Severance Glitcher"
+subTable.Function = function(Username) require(7683335255).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dvd Man"
+subTable.Function = function(Username) require(6843126490).dvd(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Deadly Lazer Sun V3"
+subTable.Function = function(Username) require(4528360948):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Deadly Lazer Sun V2"
+subTable.Function = function(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Deadly Lazer Sun V1"
+subTable.Function = function(Username) require(4658348819):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Biggest Memer"
+subTable.Function = function(Username) require(6295686651)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Da Feets"
+subTable.Function = function(Username) require(6223977609)['Da  feets'](Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Portable Screen"
+subTable.Function = function(Username) require(5928380931).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Crazy Dance"
+subTable.Function = function(Username) require(7515404366)(Username,"distract") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Solem Vow"
+subTable.Function = function(Username) require(7400426012).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Boys"
+subTable.Function = function(Username) require(7473297462).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mimicry"
+subTable.Function = function(Username) require(7400411100).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Meme Machine"
+subTable.Function = function(Username) require(2959842532):Fire(Username,"test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Slaughter Bob"
+subTable.Function = function(Username) require(7082061549).detroitbottom(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Liron"
+subTable.Function = function(Username) require(7071265233).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omega"
+subTable.Function = function(Username) require(6856371401)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Crazy Ex"
+subTable.Function = function(Username) require(6953422184)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Guillotine (Playername)"
+subTable.Function = function(Username) require(5786385249)("mald", Username, "guillotine") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Firing Squad (Playername)"
+subTable.Function = function(Username) require(5786385249)("mald", Username, "squad") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Arsenal Delinquent"
+subTable.Function = function(Username) require(1525600089).goldentec(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sin Ultimate"
+subTable.Function = function(Username) require(6583572269).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Doge Army"
+subTable.Function = function(Username) require(5115249013).fehack(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mirror Man Edit"
+subTable.Function = function(Username) require(6764771009).run(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Orb Visualiser [>play id]"
+subTable.Function = function(Username) require(4840756025)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rare Tool Pack 2"
+subTable.Function = function(Username) require(7125793570).no(Username, "no") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nebula Star Glitcher V1.2"
+subTable.Function = function(Username) require(4697268800).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nebula Star Glitcher V1"
+subTable.Function = function(Username) require(4798414097).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "NI-CISYNIA Glitcher"
+subTable.Function = function(Username) require(7667220373).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Characterization Glitcher"
+subTable.Function = function(Username) require(5513812536).Characterization(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Galaxy Glitcher Anime Edit"
+subTable.Function = function(Username) require(6174059995):GalaxyGlitcher(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "TYTMXHFL rela's Edit Glitcher 1"
+subTable.Function = function(Username) require(6832350385).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "TYTMXHFL rela's Edit Glitcher 2"
+subTable.Function = function(Username) require(6911774967).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Psychocider"
+subTable.Function = function(Username) require(7622273041):Fire(Username, "i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chromospheric Glitcher"
+subTable.Function = function(Username) require(7610956320).chromo(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Last Star Glitcher"
+subTable.Function = function(Username)
+	local a = Instance.new("Folder")
+	a.Parent = workspace[Username]
+	a.subTable.Name = "Health"
+	task.wait()
+	require(7327437424).OMG(Username)
+end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Godspeed"
+subTable.Function = function(Username) require(3957090799).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Malus"
+subTable.Function = function(Username) require(6226860871).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Alchemist"
+subTable.Function = function(Username) require(6224178099).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shouto Todoroki"
+subTable.Function = function(Username) require(6646850627).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fumo Cirno"
+subTable.Function = function(Username) require(6838409424).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kanna"
+subTable.Function = function(Username) require(03485547628).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The World Crazy Edit"
+subTable.Function = function(Username) require(0x15d0d1a90)("jojo", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hallow The World"
+subTable.Function = function(Username) require(6498729741)("HW", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Made In Heaven"
+subTable.Function = function(Username) require(4902600443)("MIH", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "King Crimson"
+subTable.Function = function(Username) require(4902600443)("KC", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shadow The World Requiem"
+subTable.Function = function(Username) require(6497734492)("STWR", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The World Over Heaven"
+subTable.Function = function(Username) require(4902600443)("TWOH", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Stand Arrow"
+subTable.Function = function(Username) require(4902600443)("Arrow", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killer Queen"
+subTable.Function = function(Username) require(4902600443)("KQ", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Uderpzal"
+subTable.Function = function(Username) require(5931089380).uderpzal(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rayman"
+subTable.Function = function(Username) require(6801506680).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Deathwish"
+subTable.Function = function(Username) require(6798837348).Deathwish(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Derpz Hoverboard"
+subTable.Function = function(Username) require(6788741042).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Coup D'etat"
+subTable.Function = function(Username) require(6224174695).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cytus Edit Glitcher"
+subTable.Function = function(Username) require(6304280002).punitus(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Derpz Glitcher: The Final Chapter"
+subTable.Function = function(Username) require(6304832125).RGT(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "GX Glitcher"
+subTable.Function = function(Username) require(6002457001).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Help Glitcher"
+subTable.Function = function(Username) require(6291191232).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hemispheric Glitcher"
+subTable.Function = function(Username) require(5090401326)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Liksn11 Glitcher"
+subTable.Function = function(Username) require(5954900168).liksn11(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omni Glitcher"
+subTable.Function = function(Username) require(6086929981).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Star Redemption"
+subTable.Function = function(Username) require(6226090258).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Yannies's SGR"
+subTable.Function = function(Username) require(5620001187).csg(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Another"
+subTable.Function = function(Username) require(5659724224).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "BlueGuestreborn1's Script"
+subTable.Function = function(Username) require(6365402810).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hololive Fubuki"
+subTable.Function = function(Username) require(5907637844).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kill Machine"
+subTable.Function = function(Username) require(6375409514).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Light"
+subTable.Function = function(Username) require(6288466793).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rune"
+subTable.Function = function(Username) require(6300537800).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Koreman"
+subTable.Function = function(Username) require(6364332345).me(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Abstract Glitcher V1.2"
+subTable.Function = function(Username) require(5783387105).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Artuco's Star Glitcher V2"
+subTable.Function = function(Username) require(5898340652).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Awakened Glitcher"
+subTable.Function = function(Username) require(5689227186)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cyan Glitcher"
+subTable.Function = function(Username) require(5783070713).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cytus 2R Glitcher"
+subTable.Function = function(Username) require(4949972461).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dimensiona"
+subTable.Function = function(Username) require(4957540270).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Firey Switcher"
+subTable.Function = function(Username) require(5748722400).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "SGR Edit"
+subTable.Function = function(Username) require(4721742420):SpectrumOP(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sans Glitcher"
+subTable.Function = function(Username) require(5489432435).GayGlitcherLeaked("old trash", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Soda Switcher Glitcher"
+subTable.Function = function(Username) require(5775182857).ssg(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spectrum Glitcher CR (-stop)"
+subTable.Function = function(Username) require(5782848272).yeet(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zero Switcher"
+subTable.Function = function(Username) require(5745831816):Alpha(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Robot Glitcher"
+subTable.Function = function(Username) require(5349719082).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Drone Minigun"
+subTable.Function = function(Username) require(5248023821).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "War Phoenix"
+subTable.Function = function(Username) require(6569530296).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Green Lantern"
+subTable.Function = function(Username) require(6513716743).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "APC Tank"
+subTable.Function = function(Username) require(6569622359).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kazotsky Kick"
+subTable.Function = function(Username) require(6728874428).basskick(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Uber God V2"
+subTable.Function = function(Username) require(6511253627).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pro Knife"
+subTable.Function = function(Username) require(6569617509).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tangel"
+subTable.Function = function(Username) require(6226452825).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Project Scripted V2.1"
+subTable.Function = function(Username) require(6725297744):Scripted(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Split Head"
+subTable.Function = function(Username) require(5760009753).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Emma U V2"
+subTable.Function = function(Username) require(6226173369).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot V3"
+subTable.Function = function(Username) require(6688474792).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Noobygames Dark Staff"
+subTable.Function = function(Username) require(4941814153).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Musketeer"
+subTable.Function = function(Username) require(6583606008).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Amethyst Mask"
+subTable.Function = function(Username) require(6583574020).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Magic 8ball"
+subTable.Function = function(Username) require(6438191748).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hellset"
+subTable.Function = function(Username) require(6569726017)[Username] = "Dark" end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fight Mode"
+subTable.Function = function(Username) require(6438401832).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lightning Fighter"
+subTable.Function = function(Username) require(5813888007).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Charlie Chaplin"
+subTable.Function = function(Username) require(6606289064).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "God's Abandoned Daughter V2"
+subTable.Function = function(Username) require(5151004305).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "R15 Giant Hulk"
+subTable.Function = function(Username) require(6587614770).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruin Finale"
+subTable.Function = function(Username) require(6473649573).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Smite"
+subTable.Function = function(Username) require(4670221296).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Marenol"
+subTable.Function = function(Username) require(6473758752).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spectre"
+subTable.Function = function(Username) require(6058222319).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Luster's Pirate"
+subTable.Function = function(Username) require(6543481472).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lunatic"
+subTable.Function = function(Username) require(5813708464).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Killer"
+subTable.Function = function(Username) require(6460913193).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dread Hunter"
+subTable.Function = function(Username) require(6511194429).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Burn"
+subTable.Function = function(Username) require(6478479994).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cyber Dominus"
+subTable.Function = function(Username) require(6511258944).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Glockcider"
+subTable.Function = function(Username) require(6500979044).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Oros Staff"
+subTable.Function = function(Username) require(6099971134).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Guts V2"
+subTable.Function = function(Username) require(6438169891).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Coelum"
+subTable.Function = function(Username) require(6489672292).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Vronicus"
+subTable.Function = function(Username) require(6485092713).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Radioactive Reaper"
+subTable.Function = function(Username) require(6478070465).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Brew Pot"
+subTable.Function = function(Username) require(6438188455).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Praefectus"
+subTable.Function = function(Username) require(6472920124).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spazzing Out"
+subTable.Function = function(Username) require(6455499392).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Junkbot"
+subTable.Function = function(Username) require(6438196691)(Username,"JUNKBOT") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chips"
+subTable.Function = function(Username) require(5097644333).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Light Circlet"
+subTable.Function = function(Username) require(5813748809).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rannoch"
+subTable.Function = function(Username) require(6375564504).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Holiest Wrench"
+subTable.Function = function(Username) require(6419718698).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dearsister Pistol"
+subTable.Function = function(Username) require(6332990586).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ice Walker"
+subTable.Function = function(Username) require(6319945511).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ancient Magician"
+subTable.Function = function(Username) require(6352223238).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Nightfall"
+subTable.Function = function(Username) require(6319870493).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "False God"
+subTable.Function = function(Username) require(6058215921).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "RachJumper"
+subTable.Function = function(Username) require(6099334284).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Aeshma"
+subTable.Function = function(Username) require(6342834455).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Operation Noob Event"
+subTable.Function = function(Username) require(6269838898).load() end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Voodoo Child V2"
+subTable.Function = function(Username) require(6191675567).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Voodoo Child"
+subTable.Function = function(Username) require(6191659992).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gem Master"
+subTable.Function = function(Username) require(5935318869).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sakura Blade"
+subTable.Function = function(Username) require(6226360016).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Clarant Blade"
+subTable.Function = function(Username) require(6099967332).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Broly"
+subTable.Function = function(Username) require(6029173293).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Marx"
+subTable.Function = function(Username) require(5813723371).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Magma Defender"
+subTable.Function = function(Username) require(5813766312).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Emer"
+subTable.Function = function(Username) require(5813759403).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fake Noot Noot"
+subTable.Function = function(Username) require(4661083363).eliza() end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Paragon Glitcher"
+subTable.Function = function(Username) require(4722335098).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Friend Glitcher"
+subTable.Function = function(Username) require(4709101293).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Universal Glitcher"
+subTable.Function = function(Username) require(4754386252).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Helkern Mech"
+subTable.Function = function(Username) require(5813823244).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Polaris Cube"
+subTable.Function = function(Username) require(6583577614).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Senko"
+subTable.Function = function(Username) require(6538030830).SenkoSan(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Onii Glitcher"
+subTable.Function = function(Username) require(5527846512).NewOnii(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Soul Glitcher"
+subTable.Function = function(Username) require(5581466263).Soul(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Can't Sleep"
+subTable.Function = function(Username) require(6225799838).run(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chaotic Glitcher"
+subTable.Function = function(Username) require(6234005961).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fallen Angelic Warrior"
+subTable.Function = function(Username) require(4945971273).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Golden Glitcher"
+subTable.Function = function(Username) require(5944671398).golden(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Maddox"
+subTable.Function = function(Username) require(4875832017).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mrs. Bye Bye"
+subTable.Function = function(Username) require(4945682948).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pandora"
+subTable.Function = function(Username) require(3547672868).p11(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pink Barbie Car"
+subTable.Function = function(Username) require(4745872847).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "ROAD ROLLER DA"
+subTable.Function = function(Username) require(4581300009).xd(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Super Reality Glitcher"
+subTable.Function = function(Username) require(4957436288).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Star Platinum"
+subTable.Function = function(Username) require(5534238329)(Username, "StarPlatinum") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The All Seeing Hand"
+subTable.Function = function(Username) require(5375399205).Player(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The World"
+subTable.Function = function(Username) require(4902600443)("TW", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Toxicity"
+subTable.Function = function(Username) require(4936620258):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Unithereal Glitcher Edit"
+subTable.Function = function(Username) require(5024713750)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "AOM Glitcher Edit"
+subTable.Function = function(Username) require(4721760220):yes(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Till It's Over Glitcher"
+subTable.Function = function(Username) require(5324939683).tillitsover(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Andrfixs Msg Edit"
+subTable.Function = function(Username) require(6134077425)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "I N S A N I T Y"
+subTable.Function = function(Username) require(6223977609)["Insanity"](Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hell Dominus"
+subTable.Function = function(Username) require(5396767447).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chillingo"
+subTable.Function = function(Username) require(6126846548).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Decimation Glitcher"
+subTable.Function = function(Username) require(6602728152)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "4 Spin Shuriken"
+subTable.Function = function(Username) require(4941658507).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "500 Pound Ball"
+subTable.Function = function(Username) require(5018462111):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "ASG"
+subTable.Function = function(Username) require(5306145175).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "ASHA"
+subTable.Function = function(Username) require(5408257176).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "AXR Piercer"
+subTable.Function = function(Username) require(5014529750):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Abysylum"
+subTable.Function = function(Username) require(4698692905).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Abysylum V2"
+subTable.Function = function(Username) require(5151019250).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "AdNOnis"
+subTable.Function = function(Username) require(5908631416)() end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Aether Bracelet"
+subTable.Function = function(Username) require(4660106429).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Agent Agony"
+subTable.Function = function(Username) require(14174465891)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Agent Wesker"
+subTable.Function = function(Username) require(4932690106).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ali"
+subTable.Function = function(Username) require(14175904153)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Angel"
+subTable.Function = function(Username) require(4671838873).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Angel And Demon"
+subTable.Function = function(Username) require(5166703170).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Angelic Rainbow Goner"
+subTable.Function = function(Username) require(4939833529).G(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Another Sans"
+subTable.Function = function(Username) require(4952709475).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Another Scythe"
+subTable.Function = function(Username) require(4810850766).Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Aquatic Mage"
+subTable.Function = function(Username) require(4671788607).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Arch Angel"
+subTable.Function = function(Username) require(2972034986):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ares the Bladist"
+subTable.Function = function(Username) require(5813806760).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Armo Drill Hand"
+subTable.Function = function(Username) require(4941668834).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Armor Money Stand"
+subTable.Function = function(Username) require(5164017575)("TH", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Artemis Sword"
+subTable.Function = function(Username) require(4936491962).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Articulacy"
+subTable.Function = function(Username) require(5730283203).Articulacy(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Auxno Glitcher V2"
+subTable.Function = function(Username) require(5366687826)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Axiom Glitcher"
+subTable.Function = function(Username) require(4859515241).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Axiomette"
+subTable.Function = function(Username) require(5018330008):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Balance God"
+subTable.Function = function(Username) require(4702754589).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Bald Man With Powers"
+subTable.Function = function(Username) require(5176617106).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Baldi"
+subTable.Function = function(Username) require(4655442549).Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Banzai Bazooka"
+subTable.Function = function(Username) require(4610437218).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "BaseBall Bat V5"
+subTable.Function = function(Username) require(4559977647).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Basketball Bat V4"
+subTable.Function = function(Username) require(4559963876).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Beerus"
+subTable.Function = function(Username) require(4702700445).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Betty Noire"
+subTable.Function = function(Username) require(5139373601).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Big Axiom Glitcher"
+subTable.Function = function(Username) require(5320792048).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Big Daddy"
+subTable.Function = function(Username) require(14174930725)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Big Hammer"
+subTable.Function = function(Username) require(4936233129).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Big Smoke"
+subTable.Function = function(Username) require(4571438935).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Billie Eilish"
+subTable.Function = function(Username) require(6213717452).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Black Dragon Exe"
+subTable.Function = function(Username) require(4702452894).axe(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Black King Crismon"
+subTable.Function = function(Username) require(5164017575)("WS", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Blade Magician"
+subTable.Function = function(Username) require(4696442000).load(Username, "loaf") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Blind Reaper"
+subTable.Function = function(Username) require(4665382251).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Boom X4"
+subTable.Function = function(Username) require(2830670878):Run(Username, "i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Bow Master"
+subTable.Function = function(Username) require(4529618784).bruh(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Brick Hamman"
+subTable.Function = function(Username) require(4702858285).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Brutal Anti Furry"
+subTable.Function = function(Username) require(5062592514).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Brutal Overlord"
+subTable.Function = function(Username) require(14174899510)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Burning Darkness"
+subTable.Function = function(Username) require(5209951430).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cactos The Fallen God"
+subTable.Function = function(Username) require(4667578923).jacob(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cadilac"
+subTable.Function = function(Username) require(4745872847).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Calamity"
+subTable.Function = function(Username) require(4692253735):Start(Username, "AAA") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Calamity V2"
+subTable.Function = function(Username) require(4547981012).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chain Magician"
+subTable.Function = function(Username) require(4697906425).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chaos"
+subTable.Function = function(Username) require(4769150160).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chaos Glitcher Rewritten"
+subTable.Function = function(Username) require(3411076957).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chaotic God"
+subTable.Function = function(Username) require(4087387896).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chara EDIT"
+subTable.Function = function(Username) require(4967838561).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chat Hax"
+subTable.Function = function(Username) require(7219921484)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chat Logger"
+subTable.Function = function(Username) require(5139065634).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "ChemZBye"
+subTable.Function = function(Username) require(5024271070):Start(Username, "AAA") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Christmas Demolitionist"
+subTable.Function = function(Username) require(6032614184).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Chrono Sentinel"
+subTable.Function = function(Username) require(4661847142).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cool Glitcher"
+subTable.Function = function(Username) require(4859029728):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cop"
+subTable.Function = function(Username) require(4702165201).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Corrupted V2"
+subTable.Function = function(Username) require(4864346299).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Crazy Diamond"
+subTable.Function = function(Username) require(4902600443)("CD" ,Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Creeper"
+subTable.Function = function(Username) require(4708818072).Oaeh(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cross Sans"
+subTable.Function = function(Username) require(4571240623).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cube Buster"
+subTable.Function = function(Username) require(4661906279).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cubix"
+subTable.Function = function(Username) require(4702846562).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cyber Monarch"
+subTable.Function = function(Username) require(4701883865).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cyber Warden"
+subTable.Function = function(Username) require(2945942634):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Cyrus Glitcher"
+subTable.Function = function(Username) require(4709075479).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "DOE"
+subTable.Function = function(Username) require(5408044316).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dark Noob Staff"
+subTable.Function = function(Username) require(4941814153).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Celestial Glitcher"
+subTable.Function = function(Username) require(0x2f720eb8c).FUZION(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Death"
+subTable.Function = function(Username) require(4653294841).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Death Claws"
+subTable.Function = function(Username) require(5030542276).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Death Note"
+subTable.Function = function(Username) require(4872782223).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Demise"
+subTable.Function = function(Username) require(5030531978).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Desolate"
+subTable.Function = function(Username) require(6088494183).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dimensional Glitcher"
+subTable.Function = function(Username) require(4568781811).feetus(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dio Sans"
+subTable.Function = function(Username) require(5012377657).Stand(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Disturbed"
+subTable.Function = function(Username) require(6099363076).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominant"
+subTable.Function = function(Username) require(4470057542).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Corona"
+subTable.Function = function(Username) require(14175091336)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Phaedra"
+subTable.Function = function(Username) require(14175087575)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dominus Switcher"
+subTable.Function = function(Username) require(3424188196).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Double Guns"
+subTable.Function = function(Username) require(4701773380).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dssj3v2"
+subTable.Function = function(Username) require(5051013449).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dubstep Gun"
+subTable.Function = function(Username) require(4442010059).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Dynamo"
+subTable.Function = function(Username) require(3592159943).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Eerin"
+subTable.Function = function(Username) require(4670359380).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Wander-Waffe"
+subTable.Function = function(Username) require(4689263875).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Emoji God"
+subTable.Function = function(Username) require(5823684505).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Empyr"
+subTable.Function = function(Username) require(4666020750).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Empyrous"
+subTable.Function = function(Username) require(4666053636).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ender V4"
+subTable.Function = function(Username) require(6226531940).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Etheral Glitcher"
+subTable.Function = function(Username) require(5195082409).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Evil Horsemen"
+subTable.Function = function(Username) require(3737497650).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Exoliner"
+subTable.Function = function(Username) require(5002669725):Exoliner("lol", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "External Glitcher"
+subTable.Function = function(Username) require(7696090372).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Eyo-Zen"
+subTable.Function = function(Username) require(4872676779).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fallen Angel"
+subTable.Function = function(Username) require(4490557105).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Fcsrz"
+subTable.Function = function(Username) require(5084695239).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Felipe Ascension"
+subTable.Function = function(Username) require(5339034667):Start(Username, "AAA") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Felipe Ascension Full"
+subTable.Function = function(Username) require(6091257111).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Felipe EDIT"
+subTable.Function = function(Username) require(5419572761):Start(Username, "Admin") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Flamingo Platinum"
+subTable.Function = function(Username) require(4902600443)("FP", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Flying Teat Ball"
+subTable.Function = function(Username) require(5185119522).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Force Choke"
+subTable.Function = function(Username) require(5030052105).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Friend Glitcher Reborn"
+subTable.Function = function(Username) require(4697789672).cyrus(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Frieza"
+subTable.Function = function(Username) require(4967816334).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "GFC"
+subTable.Function = function(Username) require(5408062229).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "GLOB"
+subTable.Function = function(Username) require(5408227768).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Galaxy Glitcher"
+subTable.Function = function(Username) require(4721766508):GalaxyGlitcher(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gaster"
+subTable.Function = function(Username) require(4702639572).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gek Glitcher"
+subTable.Function = function(Username) require(4789736147).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Genocider"
+subTable.Function = function(Username) require(4666150028).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Giant Glock Gun"
+subTable.Function = function(Username) require(2959952198):Fire(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Giant Ultra Sans"
+subTable.Function = function(Username) require(5336360739).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Giorgio Sans"
+subTable.Function = function(Username) require(4930325164).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Girl Reaper"
+subTable.Function = function(Username) require(03219306353).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gladiator"
+subTable.Function = function(Username) require(3507004797).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gnome Launcher"
+subTable.Function = function(Username) require(4907001821).gnome(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "God Of Shapes"
+subTable.Function = function(Username) require(4702356401).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "God Slayer"
+subTable.Function = function(Username) require(4698941018).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "God Stand"
+subTable.Function = function(Username) require(5237540972).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "God's Abandoned Daughter"
+subTable.Function = function(Username) require(5151004305).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Golden Gun"
+subTable.Function = function(Username) require(4670612751).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Golden Ring"
+subTable.Function = function(Username) require(4769118199).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Good Cop"
+subTable.Function = function(Username) require(4697514241).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Gun"
+subTable.Function = function(Username) require(4804256797):Fire(Username,"a") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Knife V1"
+subTable.Function = function(Username) require(14770923873)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Knife V2"
+subTable.Function = function(Username) require(14770910457)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Knife V3"
+subTable.Function = function(Username) require(14174586973)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Knife V4"
+subTable.Function = function(Username) require(14770927892)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grab Knife V4 Premium"
+subTable.Function = function(Username) require(14037398037)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grass Man"
+subTable.Function = function(Username) require(5209210329).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Grav Hammer"
+subTable.Function = function(Username) require(4702851632).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Guardian Gate Keeper"
+subTable.Function = function(Username) require(5072179438).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sealio V2 Guns Edit"
+subTable.Function = function(Username) require(6772335342)(Username,"gjih3424g2iuIGAUD4oh42343") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sealio V2 Guns"
+subTable.Function = function(Username) require(4882848368)(Username,"BEANMANBEANMAN") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sealio V1 Guns"
+subTable.Function = function(Username) require(14068914753)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Gun MLG"
+subTable.Function = function(Username) require(4768250046).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Assassin"
+subTable.Function = function(Username) require(5217353294).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "HAM"
+subTable.Function = function(Username) require(5408070604).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hacker"
+subTable.Function = function(Username) require(4982745702).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hacksaw"
+subTable.Function = function(Username) require(4560014954).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hallow Slayer"
+subTable.Function = function(Username) require(2675506369).hal(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Headphones"
+subTable.Function = function(Username) require(5003772814).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Holiday Feelings Edit"
+subTable.Function = function(Username) require(5798223634).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hoodie Stand"
+subTable.Function = function(Username) require(5164017575)("KCR", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hover Bike"
+subTable.Function = function(Username) require(4652456395).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Hype Unleashed"
+subTable.Function = function(Username) require(4469835482).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "I.R.O.N"
+subTable.Function = function(Username) require(4736979488).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ice Cream"
+subTable.Function = function(Username) require(14174940360)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ice Neptunian"
+subTable.Function = function(Username) require(14217318302)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Iluminati"
+subTable.Function = function(Username) require(2945897470):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Imposter"
+subTable.Function = function(Username) require(5828018389)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Incension"
+subTable.Function = function(Username) require(4672563258).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Indrish Zrestik"
+subTable.Function = function(Username) require(5019013695):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Inferno"
+subTable.Function = function(Username) require(4698997515).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Infinity Gaunglet"
+subTable.Function = function(Username) require(4622105140).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Infinity Gaunglet V2"
+subTable.Function = function(Username) require(5332028482).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Influx"
+subTable.Function = function(Username) require(5089116221).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Insane Geocider"
+subTable.Function = function(Username) require(4697978790).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Iron Man"
+subTable.Function = function(Username) require(4949149864)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Iron Nazi"
+subTable.Function = function(Username) require(5493872436).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Is Gone"
+subTable.Function = function(Username) require(2800498919):Run(Username, "i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Jester"
+subTable.Function = function(Username) require(4670278173).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "JoJo Gaunglet"
+subTable.Function = function(Username) require(4570858053).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "JoJo Stands"
+subTable.Function = function(Username) require(5029154308).skid(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "John Doe"
+subTable.Function = function(Username) require(4622189585).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "John Doe Blaster"
+subTable.Function = function(Username) require(4963046652).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "John Wick"
+subTable.Function = function(Username) require(4721853215):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Jump In The Caac"
+subTable.Function = function(Username) require(4702631513).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "KAOI"
+subTable.Function = function(Username) require(5408161881).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Karambit"
+subTable.Function = function(Username) require(4652908514).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kazoo Kid"
+subTable.Function = function(Username) require(4827295805).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kidnap Gui"
+subTable.Function = function(Username) require(5121582789).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot GKB"
+subTable.Function = function(Username) require(5334345785).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot V1"
+subTable.Function = function(Username) require(5060486878).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot V2"
+subTable.Function = function(Username) require(4612625355).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot V2 Edit"
+subTable.Function = function(Username) require(4938336305).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Killbot V2 Official"
+subTable.Function = function(Username) require(4613126715)(3720592397).killbot(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "King Ashoal Hammer"
+subTable.Function = function(Username) require(4932680647).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kirito Blades"
+subTable.Function = function(Username) require(4692761134).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kitchen Gun"
+subTable.Function = function(Username) require(4692732456).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Krystal Dance"
+subTable.Function = function(Username) require(4698336332).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Kuma"
+subTable.Function = function(Username) require(6099324864).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Leaf Glitcher"
+subTable.Function = function(Username) require(5011085256).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lost Dead Astronaut"
+subTable.Function = function(Username) require(5014286842):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lunar Rabbit"
+subTable.Function = function(Username) require(5166762777).load(Username,"hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lustris V1"
+subTable.Function = function(Username) require(2845906776).ooga(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Lustris V2"
+subTable.Function = function(Username) require(4867877044).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "M16A3"
+subTable.Function = function(Username) require(4738642243).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "MSG Glitcher"
+subTable.Function = function(Username) require(4841108027).MSG(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Magic Broadsword"
+subTable.Function = function(Username) require(4941688312).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Magic Warrior"
+subTable.Function = function(Username) require(5201019051).load(Username, "i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Magma Blade"
+subTable.Function = function(Username) require(5014563257):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mario Stand"
+subTable.Function = function(Username) require(5154400874).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Master Of Elements"
+subTable.Function = function(Username) require(4613142557).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mega Titan"
+subTable.Function = function(Username) require(4875502693).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Meme Glitcher"
+subTable.Function = function(Username) require(4667651562).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Midnight Glitcher"
+subTable.Function = function(Username) require(4687981421).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "More Guns"
+subTable.Function = function(Username) require(4922496226).Dreamer(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Motolov"
+subTable.Function = function(Username) require(4738637093).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mr Bye Bye"
+subTable.Function = function(Username) require(4620262474).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mr Pixels Glitcher"
+subTable.Function = function(Username) require(4178465932).MPG(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mr Ware"
+subTable.Function = function(Username) require(4481387757).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Mr Ware V2"
+subTable.Function = function(Username) require(6222865648).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Murderer"
+subTable.Function = function(Username) require(3709746847).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Murderer Glitcher"
+subTable.Function = function(Username) require(4785070948).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Musterd Gas"
+subTable.Function = function(Username) require(2989312214).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "NG3"
+subTable.Function = function(Username) require(5407178653).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nebula Staff"
+subTable.Function = function(Username) require(5152312822).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nebula Star Glitcher V1.1"
+subTable.Function = function(Username) require(4749896781).no(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nectula"
+subTable.Function = function(Username) require(3224070083).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "NelfHelm Boss"
+subTable.Function = function(Username) require(4769128965).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Neptunian V"
+subTable.Function = function(Username) require(14217435560)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Neptunian V Edit"
+subTable.Function = function(Username) require(14217382860)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Neptunian Gun Knife"
+subTable.Function = function(Username) require(14174923555)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Neurotic"
+subTable.Function = function(Username) require(4653118489).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "No Head Man"
+subTable.Function = function(Username) require(5161627296).GOD(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Noob Knife"
+subTable.Function = function(Username) require(4678565946):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Noob Staff"
+subTable.Function = function(Username) require(4931685212).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Noob Stand"
+subTable.Function = function(Username) require(4902600443)("MTW", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Noobcider"
+subTable.Function = function(Username) require(4721712660).vi(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Normal Stand"
+subTable.Function = function(Username) require(4902600443)("KQ", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nuclear Minigun"
+subTable.Function = function(Username) require(5176504023).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Nuclear Toxic Hulk"
+subTable.Function = function(Username) require(4844357782).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "OP Entity"
+subTable.Function = function(Username) require(4484551798).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omega Chara"
+subTable.Function = function(Username) require(5300018825).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omega Gaster"
+subTable.Function = function(Username) require(5299793703).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Omega Sans"
+subTable.Function = function(Username) require(5292863529).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Oof Sans"
+subTable.Function = function(Username) require(4930245801).Sans(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "OofNos"
+subTable.Function = function(Username) require(5221007407).oofth(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "PART"
+subTable.Function = function(Username) require(5408268209).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Peculiarity"
+subTable.Function = function(Username) require(4764820430):Table_MSG(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Periastrons"
+subTable.Function = function(Username) require(4207280012).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "PewDiePie Star Glitcher"
+subTable.Function = function(Username) require(4667651562).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pharaoh"
+subTable.Function = function(Username) require(4481365713).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Piggy"
+subTable.Function = function(Username) require(5162050572).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pink Guns"
+subTable.Function = function(Username) require(4702745086).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "PipBoy"
+subTable.Function = function(Username) require(4939065623).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pipe"
+subTable.Function = function(Username) require(4560063191).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Player Size Gui"
+subTable.Function = function(Username) require(5194254117).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Poison Gods Blade"
+subTable.Function = function(Username) require(5185282393).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Portal Gun"
+subTable.Function = function(Username) require(4942134331).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Powerfull Eye"
+subTable.Function = function(Username) require(5234402758).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Prism Code"
+subTable.Function = function(Username) require(14175897423)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Project 44033514"
+subTable.Function = function(Username) require(5150855227).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pulse"
+subTable.Function = function(Username) require(5018304703)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Pumpkin Overseer"
+subTable.Function = function(Username) require(4702210473).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Purple Bog Monster"
+subTable.Function = function(Username) require(5176704597).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Purple Guy"
+subTable.Function = function(Username) require(5303528309).G(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Quantom Glitcher"
+subTable.Function = function(Username) require(4652539736)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "RLL"
+subTable.Function = function(Username) require(5018042393):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ragdoll Pan"
+subTable.Function = function(Username) require(2946000013):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rainbow Goner"
+subTable.Function = function(Username) require(4949010161).G(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Rainbow Stand"
+subTable.Function = function(Username) require(4930502743).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ravenger ~StopScript"
+subTable.Function = function(Username) require(2557441421)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ravenger V2"
+subTable.Function = function(Username) require(6099373575).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Reality Glitcher"
+subTable.Function = function(Username) require(4721789462).noxd(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Reality Orb"
+subTable.Function = function(Username) require(4989257368).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Red Mr Bye Bye"
+subTable.Function = function(Username) require(4871023391).load(Username, "loaf") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Red Neptunian V"
+subTable.Function = function(Username) require(14217403657)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Red Scythe"
+subTable.Function = function(Username) require(3543603059).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Reminence Glitcher"
+subTable.Function = function(Username) require(4791595149).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruby Golem"
+subTable.Function = function(Username) require(5014302712):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruin EX"
+subTable.Function = function(Username) require(14175887100)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruin Erratum"
+subTable.Function = function(Username) require(6085232514).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruin IX"
+subTable.Function = function(Username) require(6223727749).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruin LX"
+subTable.Function = function(Username) require(4721721691).lx(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ruler Of the Universe"
+subTable.Function = function(Username) require(4967832773).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "S Thomas"
+subTable.Function = function(Username) require(5014354119):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "SCP 096"
+subTable.Function = function(Username) require(5061767478).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "SCP 106"
+subTable.Function = function(Username) require(5065079644):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "SGRS"
+subTable.Function = function(Username) require(4521367095).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "SS Detector"
+subTable.Function = function(Username) require(5486428805).Detect(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sadist Genocider"
+subTable.Function = function(Username) require(4700942162).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Saneeees"
+subTable.Function = function(Username) require(4176847784).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sans Gaster"
+subTable.Function = function(Username) require(3628802124).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sans Last Breath Another Edit"
+subTable.Function = function(Username) require(4507584604).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Satanic Samurai"
+subTable.Function = function(Username) require(4735130128).hal(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "School Shooter"
+subTable.Function = function(Username) require(2826823504):Run(Username,"i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "School Shooter Remake"
+subTable.Function = function(Username) require(3548505226):Fire(Username,"i baked you a pie") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Scissor Zombie"
+subTable.Function = function(Username) require(5195833016).load(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Scythe"
+subTable.Function = function(Username) require(5176829184).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Server Admin"
+subTable.Function = function(Username) require(4665394711).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shackluster's Knife"
+subTable.Function = function(Username) require(4702233499).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shield Fiend"
+subTable.Function = function(Username) require(4703411081).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shini-G4-MI"
+subTable.Function = function(Username) require(4610405562).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Shrike"
+subTable.Function = function(Username) require(4699164303).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sin 3.5"
+subTable.Function = function(Username) require(2787132106):Run(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sin Dragon"
+subTable.Function = function(Username) require(14136474118)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sin V2"
+subTable.Function = function(Username) require(4710057607).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Skid Switcher V2"
+subTable.Function = function(Username) require(5382391946).skids2(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Skuller"
+subTable.Function = function(Username) require(5405863585).G(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sky Glitcher"
+subTable.Function = function(Username) require(3564207744):sky(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Slapping Fish"
+subTable.Function = function(Username) require(5180702303).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Snow Golem"
+subTable.Function = function(Username) require(4697837332).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Snow Machine"
+subTable.Function = function(Username) require(4570458887).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Solaris"
+subTable.Function = function(Username) require(2946060158):Fire(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spectrum Glitcher Remake"
+subTable.Function = function(Username) require(4809742472).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spectum Glitcher"
+subTable.Function = function(Username) require(4801286155).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spell Caster"
+subTable.Function = function(Username) require(4878971408).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spiderbot"
+subTable.Function = function(Username) require(4666386879).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spiderman"
+subTable.Function = function(Username) require(5010081614):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Spongebob Bus"
+subTable.Function = function(Username) require(5206315724).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Squat Man"
+subTable.Function = function(Username) require(6049369369).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Star Glitcher"
+subTable.Function = function(Username) require(4721922423).load(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Star Glitcher V7"
+subTable.Function = function(Username) require(4737096190).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Star Time Glitcher"
+subTable.Function = function(Username) require(5480093885):StarGlitcherTime(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Starlight"
+subTable.Function = function(Username) require(4874790622).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Steve Stand"
+subTable.Function = function(Username) require(4902600443)("STV", Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Studio"
+subTable.Function = function(Username) require(4698656280).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Suicide Injection"
+subTable.Function = function(Username) require(4942136324).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sun God"
+subTable.Function = function(Username) require(5185178205).load(Username, "hack") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Super MSG"
+subTable.Function = function(Username) require(5339730995)["owo"](Username) end;
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Supernova"
+subTable.Function = function(Username) require(5407130919).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Switcher"
+subTable.Function = function(Username) require(4666430249).cancerv3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Switcher V4"
+subTable.Function = function(Username) require(4639995976).v4(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Syrian Soldier"
+subTable.Function = function(Username) require(4967315171).load(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Sythenizer Glitcher"
+subTable.Function = function(Username) require(5339705018).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "TB Flamethrower"
+subTable.Function = function(Username) require(4483948796).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "TV"
+subTable.Function = function(Username) require(5408234869).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tall Man"
+subTable.Function = function(Username) require(5760006539).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tank"
+subTable.Function = function(Username) require(5068511197).insert(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tatrionical Fataliser"
+subTable.Function = function(Username) require(4702362667).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tea"
+subTable.Function = function(Username) require(3543575474).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Techno Fairy"
+subTable.Function = function(Username) require(4872735633).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Telemons's Hammer"
+subTable.Function = function(Username) require(4942331079).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Terraria Sword"
+subTable.Function = function(Username) require(5185317856).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Tesseract"
+subTable.Function = function(Username) require(4611972434).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Thanos Glove"
+subTable.Function = function(Username) require(7714457940).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Amulet"
+subTable.Function = function(Username) require(5813871571).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Ancient Voodoo Child"
+subTable.Function = function(Username) require(6243450493).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Hand"
+subTable.Function = function(Username) require(3095760045):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Holy Vaccum"
+subTable.Function = function(Username) require(4932480712).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Hotline"
+subTable.Function = function(Username) require(5813879549).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "The Murderer"
+subTable.Function = function(Username) require(5122252940)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Thiago's Glitcher"
+subTable.Function = function(Username) require(5012778305).bro(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Thomas The Tank Engine"
+subTable.Function = function(Username) require(4702393505).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Thug Skeleton"
+subTable.Function = function(Username) require(5199565192).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Toxi"
+subTable.Function = function(Username) require(4766340057).ww(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Turbolizer?"
+subTable.Function = function(Username) require(6042884042).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Turret Car"
+subTable.Function = function(Username) require(5185235553).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "UFO"
+subTable.Function = function(Username) require(5408177599).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ubergod"
+subTable.Function = function(Username) require(4666103936).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ultimate Guest"
+subTable.Function = function(Username) require(4952074297).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ultimate Star Glitcher"
+subTable.Function = function(Username) require(4685277097).SGU(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ultra Ali"
+subTable.Function = function(Username) require(3287961196):Fireplace(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Ultra Sans"
+subTable.Function = function(Username) require(5191195848).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Umbra Mercenary"
+subTable.Function = function(Username) require(4766332788).vv(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Unknow Magic"
+subTable.Function = function(Username) require(4721880357):Fire(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "VRON"
+subTable.Function = function(Username) require(5408250642).c3(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Van (Target Name)"
+subTable.Function = function(Username) require(7219625364).Van(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Vereus"
+subTable.Function = function(Username) require(4875169740).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Viankos"
+subTable.Function = function(Username) require(6123029966).vian(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Video Powers"
+subTable.Function = function(Username) require(4702362667).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Void"
+subTable.Function = function(Username) require(4470446746).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Void Boss"
+subTable.Function = function(Username) require(4769881811).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Void Boss V3"
+subTable.Function = function(Username) require(4175593306).Void(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Void Eye"
+subTable.Function = function(Username) require(4769099074).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Void Prince"
+subTable.Function = function(Username) require(4771194490):void(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Volcanic's Guns"
+subTable.Function = function(Username) require(4741518800).Guns(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Vortex Gaunglets"
+subTable.Function = function(Username) require(5030632363).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "WDY Form"
+subTable.Function = function(Username) require(5150834064).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Wanderer"
+subTable.Function = function(Username) require(5234431005).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Warden"
+subTable.Function = function(Username) require(4698484171).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Warrior Glitcher"
+subTable.Function = function(Username) require(4658039182).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "What Another One V2.5"
+subTable.Function = function(Username) require(2598638616).coolify(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "What Another One V2"
+subTable.Function = function(Username) require(4192009387).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "What Another One V1"
+subTable.Function = function(Username) require(5219890557).load(Username, "anotherv1") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Will Of Justice"
+subTable.Function = function(Username) require(5138330292).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Winter Conjurer"
+subTable.Function = function(Username) require(4702823533).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Wyvern"
+subTable.Function = function(Username) require(4661961003).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Xester"
+subTable.Function = function(Username) require(14175124863)(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Xester V2"
+subTable.Function = function(Username) require(6099241563).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Yellow Sword"
+subTable.Function = function(Username) require(5166648286).load(Username, "test") end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zalgo"
+subTable.Function = function(Username) require(5225108665).Dark(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zamazu"
+subTable.Function = function(Username) require(4697880637).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zen Master"
+subTable.Function = function(Username) require(5072179438).eliza(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zenith BR-70"
+subTable.Function = function(Username) require(4590297182).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zephir"
+subTable.Function = function(Username) require(6099248386).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zubus Grab Knife"
+subTable.Function = function(Username) require(4528405939).load(Username) end
+table.insert(Table, subTable)
+subTable = table.create(0)
+subTable.Name = "Zythian"
+subTable.Function = function(Username) require(4666351790).load(Username) end
+table.insert(Table, subTable)
+return Table
